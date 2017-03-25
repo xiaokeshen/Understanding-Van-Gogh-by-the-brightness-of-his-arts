@@ -1,0 +1,777 @@
+Filename	Year_Month	Brightness_Median	Saturation_Median	Label_Place	Year	Month	Title	Genre_gen	Genre_gen2	Shape_Count	Shape_Avg.Size	Image_Width	Image_Height	Image_Height.Image_Width
+001.jpg	1881.834	96	91	1_Early	1881	11	Still Life with Cabbage and Clogs	still-life	still-life	144	468.854	647	402	0.6213
+002.jpg	1881.834	23	170	1_Early	1881	11	Still Life with Earthenware Bottle and Clogs	still-life	still-life	55	1508.236	600	546	0.91
+003.jpg	1881.834	61	174	1_Early	1881	11	Still Life with Yellow Straw Hat	still-life	still-life	58	2331.586	750	510	0.68
+004.jpg	1882.5838	240	51	1_Early	1882	8	Beach at Scheveningen in Calm Weather	landscape	landscape	57	1684.772	597	408	0.6834
+005.jpg	1882.5838	84	57	1_Early	1882	8	Cluster of Old Houses with the New Church in The Hague	cityscape	cityscape	36	3138.417	442	606	1.371
+006.jpg	1882.5838	171	157	1_Early	1882	8	Dunes	landscape	landscape	148	1163.892	722	426	0.59
+007.jpg	1882.5838	86	65	1_Early	1882	8	Edge of a Wood	landscape	landscape	100	950.07	460	306	0.6652
+008.jpg	1882.5838	124	130	1_Early	1882	8	Fisherman on the Beach	other	figural 	82	1979.037	419	652	1.5561
+009.jpg	1882.5838	54	117	1_Early	1882	8	Fisherman's Wife on the Beach	other	figural 	128	786.375	419	650	1.5513
+010.jpg	1882.5838	153	185	1_Early	1882	8	Girl in the Street Two Coaches in the Background A	cityscape	cityscape	133	1653.293	711	583	0.82
+011.jpg	1882.5838	101	141	1_Early	1882	8	Girl in White in the Woods	landscape	landscape	439	240.524	680	427	0.6279
+012.jpg	1882.5838	116	162	1_Early	1882	8	Man Stooping with Stick or Spade	other	figural 	97	997.608	400	413	1.0325
+013.jpg	1882.5838	114	111	1_Early	1882	8	Two Women in the Woods	other	figural 	211	459.175	440	529	1.2023
+014.jpg	1882.5838	175	87	1_Early	1882	8	View of the Sea at Scheveningen	other	landscape	540	238.956	647	457	0.7063
+015.jpg	1882.5838	81	52	1_Early	1882	8	Women Mending Nets in the Dunes	genre scene	town 	138	581.659	634	426	0.6719
+016.jpg	1883.2502	168	81	1_Early	1883	4	Bulb Fields	rural_town	town 	31	5659.581	673	506	0.7519
+017.jpg	1883.5838	105	117	1_Early	1883	8	Farmhouses in Loosduinen near The Hague at Twilight	rural_town	town 	17	7920.647	683	442	0.6471
+018.jpg	1883.5838	143	65	1_Early	1883	8	Landscape with Dunes	landscape	landscape	98	1640.551	697	473	0.6786
+019.jpg	1883.5838	104	85	1_Early	1883	8	Lying Cow	other	figural 	142	1273.035	743	446	0.6003
+020.jpg	1883.5838	113	131	1_Early	1883	8	Marshy Landscape	landscape	landscape	226	418.084	682	399	0.585
+021.jpg	1883.5838	179	188	1_Early	1883	8	Wind-Beaten Tree A	landscape	landscape	42	2021.19	517	371	0.7176
+022.jpg	1883.6672	198	39	1_Early	1883	9	Cottages	rural_town	town 	10	11221.3	646	420	0.6502
+023.jpg	1883.6672	106	100	1_Early	1883	9	Farmhouses Among Trees	rural_town	town 	103	789.01	680	476	0.7
+024.jpg	1883.7506	73	98	1_Early	1883	10	Peasant Burning Weeds	other	figural 	63	2178.127	605	453	0.7488
+025.jpg	1883.7506	74	53	1_Early	1883	10	Peat Boat with Two Figures	genre scene	figural 	31	2445.71	675	445	0.6593
+026.jpg	1883.7506	123	75	1_Early	1883	10	Two Women in the Moor	genre scene	figural 	96	1473.844	590	442	0.7492
+027.jpg	1883.834	93	83	1_Early	1883	11	Farm with Stacks of Peat	rural_town	town 	43	4062.326	715	478	0.6685
+028.jpg	1884	65	74	1_Early	1884	1	Weaver Facing Right (Half-Figure)	genre scene	figural 	124	391.137	563	572	1.016
+029.jpg	1884.0834	151	36	1_Early	1884	2	Old Tower at Nuenen with a Ploughman The	rural_town	town 	57	3248.281	634	502	0.7918
+030.jpg	1884.0834	109	108	1_Early	1884	2	Weaver Facing Right	genre scene	figural 	85	1273.906	554	443	0.7996
+031.jpg	1884.1668	132	104	1_Early	1884	3	Weaver Facing Left with Spinning Wheel	genre scene	figural 	111	736.108	600	453	0.755
+032.jpg	1884.2502	153	33	1_Early	1884	4	Landscape with Pollard Willows	landscape	landscape	42	3798.405	644	465	0.722
+033.jpg	1884.3336	206	23	1_Early	1884	5	Old Church Tower at Nuenen The	rural_town	town 	4	34311.5	620	545	0.879
+034.jpg	1884.3336	92	81	1_Early	1884	5	Parsonage Garden at Nuenen The	rural_town	town 	101	469.356	769	327	0.4252
+035.jpg	1884.3336	133	103	1_Early	1884	5	Water Mill at Kollen Near Nuenen	rural_town	town 	318	351.61	625	477	0.7632
+036.jpg	1884.3336	48	95	1_Early	1884	5	Weaver Arranging Threads	genre scene	figural 	78	163.449	745	341	0.4577
+037.jpg	1884.3336	68	51	1_Early	1884	5	Weaver Standing in Front of a Loom	genre scene	figural 	166	1069.012	698	483	0.692
+038.jpg	1884.3336	132	102	1_Early	1884	5	Weaver Seen from the Front	genre scene	figural 	149	1022.356	679	549	0.8085
+039.jpg	1884.5004	58	80	1_Early	1884	7	Cart with Red and White Ox	genre scene	figural 	312	299.481	683	468	0.6852
+040.jpg	1884.5004	166	169	1_Early	1884	7	Old Tower in the Fields The	rural_town	town 	106	1941.651	740	551	0.7446
+041.jpg	1884.5004	65	85	1_Early	1884	7	Village at Sunset	rural_town	town 	192	584.776	687	462	0.6725
+042.jpg	1884.5004	62	111	1_Early	1884	7	Weaver Near an Open Window	genre scene	figural 	123	261.244	651	480	0.7373
+043.jpg	1884.5004	80	75	1_Early	1884	7	Weaver Interior with Three Small Windows	genre scene	figural 	151	205.563	647	424	0.6553
+044.jpg	1884.5004	85	123	1_Early	1884	7	Weaver Seen from the Front	genre scene	figural 	366	178.628	614	462	0.7524
+045.jpg	1884.5838	134	93	1_Early	1884	8	Farmers Planting Potatoes	genre scene	figural 	39	2343.974	785	349	0.4446
+046.jpg	1884.6672	160	87	1_Early	1884	9	Potato Planting	genre scene	figural 	11	12584.182	782	325	0.4156
+047.jpg	1884.6672	43	53	1_Early	1884	9	Shepherd with a Flock of Sheep	genre scene	figural 	108	464.815	596	301	0.505
+048.jpg	1884.6672	184	65	1_Early	1884	9	Wood Gatherers in the Snow	genre scene	figural 	85	1320.471	791	396	0.5006
+049.jpg	1884.7506	107	111	1_Early	1884	10	Avenue of Poplars at Sunset	landscape	landscape	272	383.195	420	618	1.4714
+050.jpg	1884.7506	119	93	1_Early	1884	10	Avenue of Poplars in Autumn	rural_town	landscape	261	648.824	431	663	1.5383
+051.jpg	1884.834	28	75	1_Early	1884	11	Head of a Man	portrait	portrait	225	542.751	527	670	1.2713
+052.jpg	1884.834	56	67	1_Early	1884	11	Head of a Woman	portrait	portrait	49	842	480	616	1.2833
+053.jpg	1884.834	95	101	1_Early	1884	11	Head of a Woman	portrait	portrait	260	411.031	436	592	1.3578
+054.jpg	1884.834	82	78	1_Early	1884	11	Still Life with Bottles and Earthenware	still-life	still-life	265	344.785	591	451	0.7631
+055.jpg	1884.834	60	119	1_Early	1884	11	Still Life with Clogs and Pots	still-life	still-life	88	589.364	640	485	0.7578
+056.jpg	1884.834	62	110	1_Early	1884	11	Still Life with Coffee Mill Pipe Case and Jug	still-life	still-life	86	588.698	680	537	0.7897
+057.jpg	1884.834	80	67	1_Early	1884	11	Still Life with Five Bottles	still-life	still-life	161	331.578	582	463	0.7955
+058.jpg	1884.834	74	106	1_Early	1884	11	Still Life with Four Stone Bottles Flask and White Cup	still-life	still-life	158	858.772	691	546	0.7902
+059.jpg	1884.834	82	105	1_Early	1884	11	Still Life with Paintbrushes in a Pot	still-life	still-life	162	282.63	639	456	0.7136
+060.jpg	1884.834	71	66	1_Early	1884	11	Still Life with Pots Jar and Bottles	still-life	still-life	213	375.305	586	465	0.7935
+061.jpg	1884.834	65	92	1_Early	1884	11	Still Life with Pottery and Two Bottles	still-life	still-life	107	709.075	609	421	0.6913
+062.jpg	1884.834	54	90	1_Early	1884	11	Still Life with Two Sacks and a Bottle	still-life	still-life	91	341.571	640	468	0.73125
+063.jpg	1884.834	58	92	1_Early	1884	11	Two Rats	other	other 	41	2793.366	642	451	0.7025
+064.jpg	1884.834	80	173	1_Early	1884	11	Vase with Dead Leaves	still-life	still-life	275	380.978	431	569	1.3202
+065.jpg	1884.834	57	191	1_Early	1884	11	Vase with Honesty	still-life	still-life	225	463.538	450	613	1.3622
+066.jpg	1884.834	124	25	1_Early	1884	11	Water Mill at Gennep	rural_town	town 	51	2587.941	700	402	0.5743
+067.jpg	1884.834	74	93	1_Early	1884	11	Water Mill at Gennep	rural_town	town 	89	361.079	610	457	0.7492
+068.jpg	1884.9174	94	27	1_Early	1884	12	Head of a Peasant with Cap	portrait	portrait	102	835.686	378	500	1.3228
+069.jpg	1884.9174	95	54	1_Early	1884	12	Head of a Peasant Woman with Dark Cap	portrait	portrait	95	522.789	385	532	1.3818
+070.jpg	1884.9174	49	30	1_Early	1884	12	Head of a Peasant Woman with White Cap	portrait	portrait	49	815.041	435	565	1.2989
+071.jpg	1884.9174	56	81	1_Early	1884	12	Head of an Old Peasant Woman with White Cap	portrait	portrait	48	763.333	448	555	1.2388
+072.jpg	1884.9174	62	86	1_Early	1884	12	Head of an Old Peasant Woman with White Cap	portrait	portrait	50	1244.28	446	558	1.2511
+073.jpg	1884.9174	79	57	1_Early	1884	12	Peasant Woman Seated with White Cap	portrait	portrait	96	524.833	449	575	1.2806
+074.jpg	1885	110	89	1_Early	1885	1	Congregation Leaving the Reformed Church in Nuenen	rural_town	town 	535	172.88	490	651	1.3286
+075.jpg	1885	72	72	1_Early	1885	1	Head of a Brabant Peasant Woman with Dark Cap	portrait	portrait	9	7547.556	410	541	1.3195
+076.jpg	1885	73	83	1_Early	1885	1	Head of a Peasant with a Pipe	portrait	portrait	77	856.766	382	530	1.3874
+077.jpg	1885	55	52	1_Early	1885	1	Head of a Peasant Woman with Brownish Cap	portrait	portrait	36	666.667	452	602	1.3319
+078.jpg	1885	61	98	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	14	6027.357	398	560	1.407
+079.jpg	1885	34	100	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	13	1569.846	366	587	1.6038
+080.jpg	1885	60	87	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	4	18618.5	377	553	1.4668
+081.jpg	1885	46	37	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	1	211815	383	555	1.4491
+082.jpg	1885	45	37	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	10	841.9	346	458	1.3237
+083.jpg	1885	74	67	1_Early	1885	1	Head of a Peasant Woman with Dark Cap	portrait	portrait	175	453.469	428	569	1.3294
+084.jpg	1885	95	98	1_Early	1885	1	Head of a Peasant Woman with White Cap	portrait	portrait	35	769.429	234	291	1.2436
+085.jpg	1885	223	51	1_Early	1885	1	Old Cemetery Tower at Nuenen in the Snow The	rural_town	town 	73	383.973	600	440	0.7333
+086.jpg	1885	121	68	1_Early	1885	1	Old Station at Eindhoven The	rural_town	town 	92	2037.87	700	387	0.5529
+087.jpg	1885	180	99	1_Early	1885	1	Parsonage Garden at Nuenen in the Snow The	rural_town	town 	83	1970.855	649	443	0.6826
+088.jpg	1885	113	96	1_Early	1885	1	Parsonage Garden at Nuenen in the Snow The	genre scene	figural 	180	699.289	610	433	0.7098
+089.jpg	1885.0834	87	98	1_Early	1885	2	Head of a Peasant	portrait	portrait	71	1685.225	438	719	1.6416
+090.jpg	1885.0834	116	41	1_Early	1885	2	Head of a Peasant Woman with Dark Cap	portrait	portrait	69	1097.029	327	498	1.5229
+091.jpg	1885.0834	52	49	1_Early	1885	2	Head of a Peasant Woman with Greenish Lace Cap	portrait	portrait	63	379.619	452	602	1.3319
+092.jpg	1885.0834	71	58	1_Early	1885	2	Head of a Young Peasant Woman with Dark Cap	portrait	portrait	12	4273.25	359	557	1.5515
+093.jpg	1885.0834	64	55	1_Early	1885	2	Peasant Making a Basket	genre scene	figural 	1	303594	493	616	1.2495
+094.jpg	1885.0834	61	71	1_Early	1885	2	Peasant Woman Peeling Potatoes	genre scene	figural 	59	523.305	432	589	1.3634
+095.jpg	1885.0834	82	65	1_Early	1885	2	Peasant Woman Sweeping the Floor	genre scene	figural 	61	1154.902	409	609	1.489
+096.jpg	1885.0834	70	24	1_Early	1885	2	Peasant Woman Taking her Meal	genre scene	figural 	51	233.196	402	600	1.4925
+097.jpg	1885.0834	62	70	1_Early	1885	2	Peasant Woman Seated (Half-Figure)	portrait	portrait	73	345.247	416	747	1.7957
+098.jpg	1885.1668	45	107	1_Early	1885	3	Bobbin Winder	still-life	still-life	278	297.568	665	508	0.7639
+099.jpg	1885.1668	77	127	1_Early	1885	3	Head of a Peasant Woman with Dark Cap	portrait	portrait	109	652.633	377	554	1.4695
+100.jpg	1885.1668	55	62	1_Early	1885	3	Head of a Peasant Woman with White Cap	portrait	portrait	28	2530.679	416	553	1.3293
+101.jpg	1885.1668	81	52	1_Early	1885	3	Head of a Peasant Woman with White Cap	portrait	portrait	77	1122.935	443	570	1.2867
+102.jpg	1885.1668	52	62	1_Early	1885	3	Head of a Peasant Woman with White Cap	portrait	portrait	187	293.957	492	599	1.2175
+103.jpg	1885.1668	48	68	1_Early	1885	3	Head of a Peasant Woman with White Cap	portrait	portrait	127	325.646	425	598	1.4071
+104.jpg	1885.1668	91	131	1_Early	1885	3	Head of a Peasant Woman with White Cap	portrait	portrait	94	664.33	430	513	1.193
+105.jpg	1885.1668	40	155	1_Early	1885	3	Head of a Woman	portrait	portrait	174	356.345	505	625	1.2376
+106.jpg	1885.1668	41	80	1_Early	1885	3	Head of a Woman	portrait	portrait	33	1549.273	400	515	1.2875
+107.jpg	1885.1668	69	34	1_Early	1885	3	Head of a Woman	portrait	portrait	194	298.809	420	608	1.4476
+108.jpg	1885.1668	14	91	1_Early	1885	3	Head of a Woman	portrait	portrait	130	592.785	540	672	1.2444
+109.jpg	1885.1668	84	75	1_Early	1885	3	Head of a Woman	portrait	portrait	275	350.196	427	623	1.459
+110.jpg	1885.1668	76	65	1_Early	1885	3	Head of a Young Peasant in a Peaked Cap	portrait	portrait	267	218.307	425	570	1.3412
+111.jpg	1885.1668	61	48	1_Early	1885	3	Peasant Sitting at a Table	genre scene	figural 	119	648.328	461	646	1.4013
+112.jpg	1885.1668	39	49	1_Early	1885	3	Peasant Woman Darning Stockings	genre scene	figural 	50	204.58	408	627	1.5368
+113.jpg	1885.1668	38	67	1_Early	1885	3	Peasant Woman Seated before an Open Door Peeling Potatoes	genre scene	figural 	103	251.068	452	661	1.4624
+114.jpg	1885.1668	83	96	1_Early	1885	3	Peasant Woman Standing Indoors	other	figural 	351	216.16	412	665	1.6141
+115.jpg	1885.1668	64	70	1_Early	1885	3	Peasant Woman with Child on Her Lap	other	figural 	78	192.359	440	561	1.275
+116.jpg	1885.1668	64	72	1_Early	1885	3	Peasant Woman Seated with White Cap	portrait	figural 	364	519.448	429	602	1.4033
+117.jpg	1885.1668	78	34	1_Early	1885	3	Woman Sewing	genre scene	figural 	106	536.264	515	653	1.268
+118.jpg	1885.1668	78	40	1_Early	1885	3	Woman Winding Yarn	genre scene	figural 	172	535.023	513	652	1.271
+119.jpg	1885.1668	41	216	1_Early	1885	3	Woman with a Mourning Shawl	portrait	portrait	165	564.079	475	672	1.4147
+120.jpg	1885.2502	36	90	1_Early	1885	4	Head of a Peasant Woman with White Cap	portrait	portrait	105	405.114	448	596	1.3304
+121.jpg	1885.2502	147	128	1_Early	1885	4	Landscape at Dusk	landscape	landscape	51	2488.627	567	465	0.8201
+122.jpg	1885.2502	196	152	1_Early	1885	4	Landscape at Sunset	landscape	landscape	63	2631.032	637	422	0.6625
+123.jpg	1885.2502	121	83	1_Early	1885	4	Peasant and Peasant Woman Planting Potatoes	genre scene	figural 	127	772.339	642	521	0.8115
+124.jpg	1885.2502	55	60	1_Early	1885	4	Potato Eaters The	genre scene	figural 	189	229.434	668	501	0.75
+125.jpg	1885.2502	58	110	1_Early	1885	4	Potato Eaters The	genre scene	figural 	324	305.256	792	565	0.7134
+126.jpg	1885.2502	38	116	1_Early	1885	4	Still Life with Copper Coffeepot and Two White Bowls	still-life	still-life	101	326.416	711	476	0.6695
+127.jpg	1885.2502	51	67	1_Early	1885	4	Study for 'The Potato Eaters'	genre scene	figural 	246	358.256	735	549	0.7469
+128.jpg	1885.2502	89	119	1_Early	1885	4	Two Hands	other	figural 	109	368.661	360	600	1.6667
+129.jpg	1885.3336	41	122	1_Early	1885	5	Cottage The	rural_town	town 	405	550.025	730	594	0.8137
+130.jpg	1885.3336	82	72	1_Early	1885	5	Gordina de Groot Head	portrait	portrait	114	603.491	400	485	1.2125
+131.jpg	1885.3336	22	225	1_Early	1885	5	Head of a Man	portrait	portrait	151	449.483	497	662	1.332
+132.jpg	1885.3336	49	33	1_Early	1885	5	Head of a Peasant Woman	portrait	portrait	295	459.088	490	600	1.2245
+133.jpg	1885.3336	73	93	1_Early	1885	5	Head of a Peasant Woman in a Green Shawl	portrait	portrait	152	351.217	384	494	1.2865
+134.jpg	1885.3336	29	224	1_Early	1885	5	Head of a Woman	portrait	portrait	176	399.045	527	635	1.2049
+135.jpg	1885.3336	76	68	1_Early	1885	5	Old Church Tower at Nuenen ('The Peasants' Churchyard')	rural_town	town 	170	1100.9	750	596	0.7947
+136.jpg	1885.417	208	75	1_Early	1885	6	Cottage	rural_town	town 	22	6152.818	661	490	0.7413
+137.jpg	1885.417	41	151	1_Early	1885	6	Cottage and Woman with Goat	rural_town	town 	157	605.841	750	533	0.7107
+138.jpg	1885.417	107	121	1_Early	1885	6	Cottage with Peasant Woman Digging	rural_town	town 	69	804.159	590	458	0.7763
+139.jpg	1885.417	75	80	1_Early	1885	6	Cottage with Trees	rural_town	town 	1	314557	650	484	0.7446
+140.jpg	1885.417	53	35	1_Early	1885	6	Cottage with Trees and Peasant Woman	rural_town	town 	232	131.409	507	555	1.0947
+141.jpg	1885.417	80	87	1_Early	1885	6	Peasant Woman by the Fireplace	genre scene	figural 	150	608.593	587	423	0.7206
+142.jpg	1885.417	48	104	1_Early	1885	6	Peasant Woman by the Fireplace	genre scene	figural 	142	533.993	420	486	1.1571
+143.jpg	1885.417	85	119	1_Early	1885	6	Peasant Woman Sitting on a Chair	other	figural 	93	447.398	444	568	1.2793
+144.jpg	1885.5004	127	81	1_Early	1885	7	Cottage with Decrepit Barn and Stooping Woman	rural_town	town 	18	8491	648	361	0.5571
+145.jpg	1885.5004	140	49	1_Early	1885	7	Cottage with Peasant Coming Home	rural_town	town 	60	2531.567	559	467	0.8354
+146.jpg	1885.5004	73	34	1_Early	1885	7	Peasant Digging	other	figural 	266	351.602	428	632	1.4766
+147.jpg	1885.5004	86	85	1_Early	1885	7	Peasant Woman Digging	other	figural 	15	2186.6	417	629	1.5084
+148.jpg	1885.5004	122	72	1_Early	1885	7	Peasant Woman Digging	other	figural 	183	600.344	473	608	1.2854
+149.jpg	1885.5004	118	52	1_Early	1885	7	Woman Lifting Potatoes	other	figural 	3	64538.667	475	627	1.32
+150.jpg	1885.5838	93	96	1_Early	1885	8	Peasant Woman Digging	other	figural 	205	506.824	452	597	1.3208
+151.jpg	1885.5838	94	118	1_Early	1885	8	Peasant Woman Digging Up Potatoes	genre scene	figural 	185	171.168	593	472	0.796
+152.jpg	1885.5838	209	147	1_Early	1885	8	Sheaves of Wheat in a Field	landscape	landscape	32	7163.25	506	678	1.3399
+153.jpg	1885.6672	23	81	1_Early	1885	9	Basket of Apples	still-life	still-life	395	337.443	720	532	0.7389
+154.jpg	1885.6672	36	228	1_Early	1885	9	Basket of Apples	still-life	still-life	192	295.151	666	505	0.7583
+155.jpg	1885.6672	69	62	1_Early	1885	9	Basket of Potatoes	still-life	still-life	180	480.389	645	488	0.7566
+156.jpg	1885.6672	87	122	1_Early	1885	9	Basket of Potatoes	still-life	still-life	372	313.812	575	444	0.7722
+157.jpg	1885.6672	78	78	1_Early	1885	9	Baskets of Potatoes	still-life	still-life	1	255329	551	465	0.8439
+158.jpg	1885.6672	64	31	1_Early	1885	9	Beer Tankards	still-life	still-life	157	409.261	601	445	0.7404
+159.jpg	1885.6672	51	67	1_Early	1885	9	Still Life with a Basket of Apples	still-life	still-life	137	360.08	661	416	0.6293
+160.jpg	1885.6672	64	35	1_Early	1885	9	Still Life with a Basket of Apples and Two Pumpkins	still-life	still-life	57	221.351	617	431	0.6985
+161.jpg	1885.6672	80	51	1_Early	1885	9	Still Life with a Basket of Potatoes Surrounded by Autumn Leaves and Vegetables	still-life	still-life	278	332.806	683	531	0.7775
+162.jpg	1885.6672	82	103	1_Early	1885	9	Still Life with a Basket of Vegetables	still-life	still-life	164	192.652	596	428	0.7181
+163.jpg	1885.6672	67	39	1_Early	1885	9	Still Life with an Earthen Bowl and Pears	still-life	still-life	337	183.24	574	451	0.7857
+164.jpg	1885.6672	70	81	1_Early	1885	9	Still Life with an Earthen Bowl and Potatoes	still-life	still-life	208	323.361	617	488	0.7909
+165.jpg	1885.6672	24	58	1_Early	1885	9	Still Life with Birds' Nests	still-life	still-life	3	135999.667	750	546	0.728
+166.jpg	1885.6672	89	49	1_Early	1885	9	Still Life with Birds' Nests	still-life	still-life	336	410.967	656	528	0.8049
+167.jpg	1885.6672	44	241	1_Early	1885	9	Still Life with Brass Cauldron and Jug	still-life	still-life	217	335.77	681	537	0.7885
+168.jpg	1885.6672	72	56	1_Early	1885	9	Still Life with Earthenware and Bottles	still-life	still-life	126	853.349	642	438	0.6822
+169.jpg	1885.6672	72	147	1_Early	1885	9	Still Life with Ginger Jar and Apples	still-life	still-life	62	1484.742	580	361	0.6224
+170.jpg	1885.6672	51	65	1_Early	1885	9	Still Life with Ginger Jar and Onions	still-life	still-life	75	486.587	594	413	0.6953
+171.jpg	1885.6672	70	81	1_Early	1885	9	Still Life with Three Birds' Nests	still-life	still-life	359	452.942	656	501	0.7637
+172.jpg	1885.6672	51	32	1_Early	1885	9	Still Life with Two Jars and Two Pumpkins	still-life	still-life	39	386.077	644	428	0.6646
+173.jpg	1885.6672	53	211	1_Early	1885	9	Still Life with Vegetables and Fruit	still-life	still-life	207	623.758	666	495	0.7432
+174.jpg	1885.6672	52	195	1_Early	1885	9	Vicarage at Nuenen The	rural_town	town 	170	275.659	680	512	0.7529
+175.jpg	1885.7506	148	150	1_Early	1885	10	Autumn Landscape	landscape	landscape	50	915.1	454	341	0.7511
+176.jpg	1885.7506	125	183	1_Early	1885	10	Autumn Landscape at Dusk	landscape	landscape	292	393.89	677	389	0.5746
+177.jpg	1885.7506	105	19	1_Early	1885	10	Country Lane with Two Figures	landscape	landscape	24	5718.708	524	411	0.7844
+178.jpg	1885.7506	143	101	1_Early	1885	10	De Ruijterkade in Amsterdam The	rural_town	town 	101	1432.713	580	445	0.7672
+179.jpg	1885.7506	72	42	1_Early	1885	10	Flying Fox	other	other 	124	651.46	750	389	0.5187
+180.jpg	1885.7506	72	36	1_Early	1885	10	Still Life with Bible	still-life	still-life	107	1565.29	718	586	0.8162
+181.jpg	1885.7506	66	80	1_Early	1885	10	Still Life with Three Birds' Nests	still-life	still-life	118	89.11	598	407	0.6806
+182.jpg	1885.7506	77	76	1_Early	1885	10	Still Life with Three Birds' Nests	still-life	still-life	302	135.599	554	414	0.7473
+183.jpg	1885.7506	141	76	1_Early	1885	10	View of Amsterdam from Central Station	cityscape	cityscape	32	5474.938	640	479	0.7484
+184.jpg	1885.834	152	147	1_Early	1885	11	Autumn Landscape with Four Trees	landscape	landscape	160	665.019	600	473	0.7883
+185.jpg	1885.834	93	112	1_Early	1885	11	Lane with Poplars	landscape	landscape	610	224.348	650	514	0.7908
+186.jpg	1885.834	74	62	1_Early	1885	11	Parsonage at Nuenen by Moonlight The	rural_town	town 	70	600.414	578	419	0.7249
+187.jpg	1885.834	128	95	1_Early	1885	11	Willow The	landscape	landscape	102	1160.853	490	684	1.3959
+188.jpg	1885.9174	84	133	1_Early	1885	12	Backyards of Old Houses in Antwerp in the Snow	cityscape	cityscape	291	458.684	520	685	1.3173
+189.jpg	1885.9174	105	85	1_Early	1885	12	Head of a Woman with her Hair Loose	portrait	portrait	177	643.023	408	598	1.4657
+190.jpg	1885.9174	73	60	1_Early	1885	12	Head of an Old Woman with White Cap (The Midwife)	portrait	portrait	33	2916.515	490	638	1.302
+191.jpg	1885.9174	51	45	1_Early	1885	12	Portrait of a Woman with Red Ribbon	portrait	portrait	63	1760.698	550	640	1.1636
+192.jpg	1885.9174	66	44	1_Early	1885	12	Portrait of an Old Man with Beard	portrait	portrait	91	672.791	474	639	1.3481
+193.jpg	1885.9174	97	60	1_Early	1885	12	Portrait of Woman in Blue	portrait	portrait	144	884.042	516	642	1.2442
+194.jpg	1885.9174	39	60	1_Early	1885	12	Skull with Burning Cigarette	still-life	still-life	169	722.947	614	820	1.3355
+195.jpg	1886.1668	100	188	1_Early	1886	3	Pair of Shoes A	still-life	still-life	361	836.349	745	590	0.7919
+196.jpg	1886.2502	53	183	1_Early	1886	4	Nude Study of a Little Girl Seated	other	figural 	299	339.274	554	666	1.2022
+197.jpg	1886.2502	99	178	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	29	4107.276	555	679	1.2234
+198.jpg	1886.2502	130	136	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	36	2243	475	584	1.2295
+199.jpg	1886.2502	120	103	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	119	600.286	447	594	1.3289
+200.jpg	1886.2502	167	34	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	16	13118	413	641	1.5521
+201.jpg	1886.2502	182	62	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	101	1572.97	450	564	1.2533
+202.jpg	1886.2502	100	90	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	308	575.63	480	667	1.3896
+203.jpg	1886.2502	120	76	2_Paris	1886	4	Plaster Statuette of a Female Torso	other	copy	18	4403.833	444	572	1.2883
+204.jpg	1886.2502	71	64	2_Paris	1886	4	Plaster Statuette of a Horse	other	copy	77	716.961	646	511	0.791
+205.jpg	1886.2502	49	81	2_Paris	1886	4	Plaster Statuette of a Kneeling Man	other	copy	50	2179.58	514	674	1.3113
+206.jpg	1886.2502	140	74	2_Paris	1886	4	Plaster Statuette of a Male Torso	other	copy	116	731.138	450	593	1.3178
+207.jpg	1886.2502	70	91	2_Paris	1886	4	Self-Portrait with Dark Felt Hat	self-portrait	portrait	270	210.148	459	599	1.305
+208.jpg	1886.2502	91	80	2_Paris	1886	4	Self-Portrait with Dark Felt Hat at the Easel	self-portrait	portrait	217	776.249	508	621	1.2224
+209.jpg	1886.2502	80	43	2_Paris	1886	4	Self-Portrait with Pipe	self-portrait	portrait	454	117.053	500	615	1.23
+210.jpg	1886.2502	18	119	2_Paris	1886	4	Self-Portrait with Pipe	self-portrait	portrait	712	80.051	481	683	1.42
+211.jpg	1886.2502	126	102	2_Paris	1886	4	Sloping Path in Montmartre	other	cityscape	277	452.199	466	657	1.4099
+212.jpg	1886.2502	82	188	2_Paris	1886	4	Still Life with Scabiosa and Ranunculus	still-life	still-life	263	674.122	442	585	1.3235
+213.jpg	1886.2502	143	89	2_Paris	1886	4	Tambourine with Pansies	still-life	still-life	116	1431.44	645	525	0.814
+214.jpg	1886.2502	99	67	2_Paris	1886	4	View of Roofs and Backs of Houses	cityscape	cityscape	163	389.331	655	482	0.7359
+215.jpg	1886.417	71	32	2_Paris	1886	6	Bowl with Daffodils	still-life	still-life	1	807000	750	1076	1.4347
+216.jpg	1886.417	64	92	2_Paris	1886	6	Flowers in a Blue Vase	still-life	still-life	135	625.896	436	599	1.3739
+217.jpg	1886.417	165	143	2_Paris	1886	6	Lane at the Jardin du Luxembourg	cityscape	cityscape	119	1509.042	723	398	0.5505
+218.jpg	1886.417	135	56	2_Paris	1886	6	Le Blute-Fin Mill	cityscape	cityscape	49	4661.571	500	721	1.442
+219.jpg	1886.417	225	88	2_Paris	1886	6	Pont du Carrousel and the Louvre The	cityscape	cityscape	16	7887.125	595	415	0.6975
+220.jpg	1886.417	60	70	2_Paris	1886	6	Vase with Flowers	still-life	still-life	378	154.497	523	649	1.2409
+221.jpg	1886.417	37	86	2_Paris	1886	6	Vase with Myosotis and Peonies	still-life	still-life	253	115.004	510	655	1.2843
+222.jpg	1886.5004	152	105	2_Paris	1886	7	Bois de Boulogne with People Walking The	cityscape	cityscape	1	452250	750	603	0.804
+223.jpg	1886.5004	77	116	2_Paris	1886	7	Cineraria in a Flowerpot	still-life	still-life	405	221.654	527	620	1.1765
+224.jpg	1886.5004	62	137	2_Paris	1886	7	Coleus Plant in a Flowerpot	still-life	still-life	75	2022.6	352	691	1.9631
+225.jpg	1886.5004	114	123	2_Paris	1886	7	Fourteenth of July Celebration in Paris The	cityscape	cityscape	236	331.517	396	472	1.1919
+226.jpg	1886.5004	113	121	2_Paris	1886	7	Geranium in a Flowerpot	still-life	still-life	174	650.793	475	606	1.2758
+227.jpg	1886.5004	56	65	2_Paris	1886	7	Ginger Jar Filled with Chrysanthemums	still-life	still-life	116	188.25	392	534	1.3622
+228.jpg	1886.5004	17	121	2_Paris	1886	7	Glass with Roses	still-life	still-life	255	171.196	517	680	1.3153
+229.jpg	1886.5004	200	40	2_Paris	1886	7	Le Moulin de Blute-Fin	cityscape	cityscape	25	6193.96	486	638	1.3128
+230.jpg	1886.5004	202	38	2_Paris	1886	7	Le Moulin de la Galette	cityscape	cityscape	17	8072.882	496	600	1.2097
+231.jpg	1886.5004	46	81	2_Paris	1886	7	Still Life with Bloaters	still-life	still-life	161	105.36	444	538	1.2117
+232.jpg	1886.5004	49	81	2_Paris	1886	7	Still Life with Bloaters	still-life	still-life	145	213.972	684	330	0.4825
+233.jpg	1886.5004	60	66	2_Paris	1886	7	Vase with Asters Salvia and Other Flowers	still-life	still-life	126	505.841	370	777	2.1
+234.jpg	1886.5004	85	107	2_Paris	1886	7	Vase with Carnations	still-life	still-life	115	279.678	445	553	1.2427
+235.jpg	1886.5004	60	85	2_Paris	1886	7	Vase with Carnations	still-life	still-life	130	339.9	440	540	1.2273
+236.jpg	1886.5004	80	107	2_Paris	1886	7	Vase with Carnations	still-life	still-life	249	252.193	520	657	1.2635
+237.jpg	1886.5004	156	89	2_Paris	1886	7	Vase with Carnations and Other Flowers	still-life	still-life	112	821.875	359	599	1.6685
+238.jpg	1886.5004	40	91	2_Paris	1886	7	Vase with Carnations and Zinnias	still-life	still-life	40	517.875	469	616	1.3134
+239.jpg	1886.5004	92	211	2_Paris	1886	7	Vase with Daisies	still-life	still-life	240	191.433	435	317	0.7287
+240.jpg	1886.5004	82	122	2_Paris	1886	7	Vase with Gladioli and Carnations	still-life	still-life	194	234.964	287	553	1.9268
+241.jpg	1886.5004	113	246	2_Paris	1886	7	Vase with Gladioli and Carnations	still-life	still-life	174	352.184	320	663	2.0719
+242.jpg	1886.5004	65	71	2_Paris	1886	7	Vase with Gladioli and Lilac	still-life	still-life	157	393.045	336	707	2.1042
+243.jpg	1886.5004	66	82	2_Paris	1886	7	Vase with Peonies	still-life	still-life	65	746.292	459	547	1.1917
+244.jpg	1886.5004	107	241	2_Paris	1886	7	Vase with Red Gladioli	still-life	still-life	225	203.769	400	649	1.6225
+245.jpg	1886.5004	146	128	2_Paris	1886	7	Vase with Red Gladioli	still-life	still-life	102	1174.559	428	570	1.3318
+246.jpg	1886.5004	42	29	2_Paris	1886	7	Vase with Red Gladioli	still-life	still-life	192	248.161	397	741	1.8665
+247.jpg	1886.5004	101	97	2_Paris	1886	7	Vase with Red Poppies	still-life	still-life	309	182.926	480	591	1.23125
+248.jpg	1886.5004	79	128	2_Paris	1886	7	Vase with Viscaria	still-life	still-life	205	343.254	497	600	1.2072
+249.jpg	1886.5004	77	143	2_Paris	1886	7	Vase with White and Red Carnations	still-life	still-life	92	1507.304	529	645	1.2193
+250.jpg	1886.5004	110	123	2_Paris	1886	7	Vase with Zinnias	still-life	still-life	212	486.198	474	638	1.346
+251.jpg	1886.5004	70	88	2_Paris	1886	7	Vase with Zinnias and Geraniums	still-life	still-life	294	211.327	475	637	1.3411
+252.jpg	1886.5004	118	74	2_Paris	1886	7	Vase with Zinnias and Other Flowers	still-life	still-life	68	2020.882	554	453	0.8177
+253.jpg	1886.5838	87	95	2_Paris	1886	8	Bowl with Sunflowers Roses and Other Flowers	still-life	still-life	322	184.295	675	527	0.7807
+254.jpg	1886.5838	124	86	2_Paris	1886	8	Vase with Asters and Phlox	still-life	still-life	174	411.425	490	659	1.3449
+255.jpg	1886.5838	145	68	2_Paris	1886	8	Vase with Gladioli	still-life	still-life	115	1878.339	484	603	1.2459
+256.jpg	1886.5838	136	76	2_Paris	1886	8	Vase with Hollyhocks	still-life	still-life	49	1928.633	300	564	1.88
+257.jpg	1886.5838	206	53	2_Paris	1886	8	View of Paris from Montmartre	cityscape	cityscape	53	2862.491	750	471	0.628
+258.jpg	1886.5838	197	53	2_Paris	1886	8	View of the Roofs of Paris	cityscape	cityscape	79	2080.443	750	521	0.6947
+259.jpg	1886.6672	172	112	2_Paris	1886	9	Kingfisher The	other	other 	238	886.336	750	530	0.7067
+260.jpg	1886.6672	58	75	2_Paris	1886	9	Pair of Shoes A	still-life	still-life	1	469500	750	626	0.8347
+261.jpg	1886.6672	110	139	2_Paris	1886	9	Terrace of a Cafe on Montmartre (La Guinguette)	genre scene	figural 	1	427500	750	570	0.76
+262.jpg	1886.7506	141	71	2_Paris	1886	10	Bois de Boulogne with People Walking The	cityscape	landscape	86	538.14	400	340	0.85
+263.jpg	1886.7506	79	115	2_Paris	1886	10	Bowl with Peonies and Roses	still-life	still-life	1	459750	750	613	0.8173
+264.jpg	1886.7506	68	78	2_Paris	1886	10	Green Parrot The	other	still-life	1	638250	750	851	1.1347
+265.jpg	1886.7506	170	112	2_Paris	1886	10	Hill of Montmartre with Quarry The	cityscape	cityscape	1	500250	750	667	0.8893
+266.jpg	1886.7506	216	103	2_Paris	1886	10	Le Moulin de la Galette	cityscape	cityscape	21	9839.857	750	606	0.808
+267.jpg	1886.7506	156	48	2_Paris	1886	10	Le Moulin de la Galette	cityscape	cityscape	12	21608.083	750	605	0.8067
+268.jpg	1886.7506	210	54	2_Paris	1886	10	Le Moulin de la Galette	cityscape	cityscape	141	1516.957	750	615	0.82
+269.jpg	1886.7506	225	31	2_Paris	1886	10	Le Moulin de la Galette	cityscape	cityscape	105	2007.181	750	917	1.2227
+270.jpg	1886.7506	185	78	2_Paris	1886	10	Le Moulin de la Galette	cityscape	cityscape	43	1561.163	299	430	1.4381
+271.jpg	1886.7506	128	87	2_Paris	1886	10	Montmartre: Quarry the Mills	cityscape	cityscape	162	913.901	713	435	0.6101
+272.jpg	1886.7506	183	61	2_Paris	1886	10	Outskirts of Paris	cityscape	cityscape	3	70773.667	750	606	0.808
+273.jpg	1886.7506	77	62	2_Paris	1886	10	Self-Portrait	self-portrait	portrait	1	744000	750	992	1.3227
+274.jpg	1886.7506	39	170	2_Paris	1886	10	Still Life with Mussels and Shrimps	still-life	still-life	1	420750	750	561	0.748
+275.jpg	1886.7506	130	86	2_Paris	1886	10	View of Montmartre with Windmills	cityscape	cityscape	1	344250	750	459	0.612
+276.jpg	1886.7506	154	70	2_Paris	1886	10	Windmill on Montmartre	cityscape	cityscape	193	1677.518	750	906	1.208
+277.jpg	1886.9174	110	120	2_Paris	1886	12	Three Pairs of Shoes	still-life	still-life	1	383250	750	511	0.6813
+278.jpg	1887	153	84	2_Paris	1887	1	Plaster Statuette of a Female Torso	other	copy	403	765.744	750	1015	1.3533
+279.jpg	1887	107	93	2_Paris	1887	1	Portrait of PËre Tanguy	portrait	portrait	1	743250	750	991	1.3213
+280.jpg	1887	116	116	2_Paris	1887	1	Self-Portrait	self-portrait	portrait	1	726000	750	968	1.2907
+281.jpg	1887	102	103	2_Paris	1887	1	Self-Portrait with Grey Felt Hat	self-portrait	portrait	1	688500	750	918	1.224
+282.jpg	1887	123	96	2_Paris	1887	1	Self-Portrait with Straw Hat	self-portrait	portrait	1	715500	750	954	1.272
+283.jpg	1887	139	187	2_Paris	1887	1	Skull	still-life	still-life	1	775500	750	1034	1.3787
+284.jpg	1887	156	125	2_Paris	1887	1	Skull	still-life	still-life	1	758250	750	1011	1.348
+285.jpg	1887	119	107	2_Paris	1887	1	Still Life with Quince Pears	still-life	still-life	387	438.509	623	493	0.7913
+286.jpg	1887.0834	140	88	2_Paris	1887	2	Agostina Segatori Sitting in the Cafe du Tambourin	portrait	portrait	124	1497.694	450	541	1.2022
+287.jpg	1887.0834	190	44	2_Paris	1887	2	Boulevard de Clichy	cityscape	cityscape	226	950.699	750	613	0.8173
+288.jpg	1887.0834	192	136	2_Paris	1887	2	Nude Woman Reclining	other	figural 	315	499.483	750	444	0.592
+289.jpg	1887.0834	163	89	2_Paris	1887	2	Nude Woman Reclining Seen from the Back	other	figural 	72	3457.306	750	452	0.6027
+290.jpg	1887.0834	70	116	2_Paris	1887	2	Pair of Shoes A	still-life	still-life	1	433500	750	578	0.7707
+291.jpg	1887.0834	102	71	2_Paris	1887	2	Self-Portrait with Pipe and Glass	self-portrait	portrait	1	686250	750	915	1.22
+292.jpg	1887.0834	141	49	2_Paris	1887	2	Street Scene in Montmartre: Le Moulin a Poivre	cityscape	cityscape	143	711.944	750	391	0.5213
+293.jpg	1887.0834	211	23	2_Paris	1887	2	Vegetable Garden in Montmartre	cityscape	cityscape	20	6162.45	750	413	0.5507
+294.jpg	1887.1668	167	73	2_Paris	1887	3	Factories Seen from a Hillside in Moonlight	landscape	landscape	56	1945.5	750	339	0.452
+295.jpg	1887.1668	149	135	2_Paris	1887	3	Flowerpot with Chives	still-life	still-life	1	840000	750	1120	1.4933
+296.jpg	1887.1668	190	142	2_Paris	1887	3	Le Moulin de la Galette	cityscape	cityscape	75	7600.373	750	1074	1.432
+297.jpg	1887.1668	107	61	2_Paris	1887	3	Self-Portrait with Grey Felt Hat	self-portrait	portrait	341	212.859	505	594	1.1762
+298.jpg	1887.1668	75	125	2_Paris	1887	3	Self-Portrait with Straw Hat	self-portrait	portrait	395	281.152	497	666	1.34
+299.jpg	1887.1668	129	135	2_Paris	1887	3	Still Life with a Basket of Crocuses	still-life	still-life	119	2843.546	764	591	0.7736
+300.jpg	1887.1668	173	117	2_Paris	1887	3	Still Life with Lemons on a Plate	still-life	still-life	41	2042.195	460	355	0.7717
+301.jpg	1887.2502	162	47	2_Paris	1887	4	Banks of the Seine with Boats The	landscape	landscape	249	666.325	623	525	0.8427
+302.jpg	1887.2502	132	102	2_Paris	1887	4	Edge of a Wheatfield with Poppies	landscape	landscape	307	496.648	439	541	1.2323
+303.jpg	1887.2502	104	106	2_Paris	1887	4	Entrance of Voyer d'Argenson Park at AsniËres	rural_town	landscape	306	529.899	601	480	0.7987
+304.jpg	1887.2502	115	172	2_Paris	1887	4	Fritillaries in a Copper Vase	still-life	still-life	541	206.532	450	554	1.2311
+305.jpg	1887.2502	200	66	2_Paris	1887	4	Lane in Voyer d'Argenson Park at Asnieres	rural_town	landscape	198	557.434	595	434	0.7294
+306.jpg	1887.2502	215	43	2_Paris	1887	4	On the Outskirts of Paris	cityscape	cityscape	111	1073.91	594	482	0.8114
+307.jpg	1887.2502	40	86	2_Paris	1887	4	Pair of Shoes A	still-life	still-life	103	869.039	617	481	0.7796
+308.jpg	1887.2502	123	122	2_Paris	1887	4	Park at Asnieres in Spring (on loan from a private collection)	landscape	landscape	394	355.789	580	437	0.7534
+309.jpg	1887.2502	145	76	2_Paris	1887	4	Pasture in Bloom	landscape	landscape	363	574.463	639	468	0.7324
+310.jpg	1887.2502	168	171	2_Paris	1887	4	Portrait of the Art Dealer Alexander Reid	portrait	portrait	424	215.726	400	505	1.2625
+311.jpg	1887.2502	201	57	2_Paris	1887	4	Restaurant de la SirËne at AsniËres The	cityscape	landscape	251	638.016	643	512	0.7963
+312.jpg	1887.2502	182	150	2_Paris	1887	4	Roadway with Underpass (The Viaduct)	rural_town	landscape	67	1268.284	458	364	0.7948
+313.jpg	1887.2502	94	57	2_Paris	1887	4	Seine with a Rowing Boat The	landscape	landscape	206	332.102	620	527	0.85
+314.jpg	1887.2502	127	121	2_Paris	1887	4	Self-Portrait	self-portrait	portrait	315	487.81	508	690	1.3583
+315.jpg	1887.2502	197	49	2_Paris	1887	4	Still Life with Absinthe	still-life	still-life	108	986.509	462	667	1.4437
+316.jpg	1887.2502	151	186	2_Paris	1887	4	Still Life with Bloaters and Garlic	still-life	still-life	182	566.225	454	372	0.8194
+317.jpg	1887.2502	153	103	2_Paris	1887	4	Still Life with Decanter and Lemons on a Plate	still-life	still-life	263	543.373	500	616	1.232
+318.jpg	1887.2502	179	43	2_Paris	1887	4	View of a River with Rowing Boats	landscape	landscape	195	959.226	647	514	0.7944
+319.jpg	1887.2502	172	46	2_Paris	1887	4	View of Paris from Vincent's Room in the Rue Lepic	cityscape	cityscape	139	1011.64	472	566	1.1992
+320.jpg	1887.2502	210	15	2_Paris	1887	4	View of Paris from Vincent's Room in the Rue Lepic	cityscape	cityscape	146	858.829	450	554	1.2311
+321.jpg	1887.2502	112	121	2_Paris	1887	4	Woman Sitting by a Cradle	portrait	portrait	311	601.971	500	683	1.366
+322.jpg	1887.2502	147	103	2_Paris	1887	4	Woman Sitting in the Grass	portrait	portrait	177	907.836	458	557	1.2162
+323.jpg	1887.3336	131	93	2_Paris	1887	5	Banks of the Seine The	landscape	landscape	382	318.681	647	448	0.6924
+324.jpg	1887.3336	95	112	2_Paris	1887	5	Chestnut Tree in Blossom	landscape	landscape	591	193.074	450	561	1.2467
+325.jpg	1887.3336	112	45	2_Paris	1887	5	Self-Portrait	self-portrait	portrait	181	713.729	476	650	1.3655
+326.jpg	1887.3336	134	128	2_Paris	1887	5	Self-Portrait	self-portrait	portrait	221	853.81	506	654	1.2925
+327.jpg	1887.417	162	94	2_Paris	1887	6	Banks of the Seine with Pont de Clichy in the Spring	landscape	landscape	383	387.198	550	460	0.8364
+328.jpg	1887.417	186	70	2_Paris	1887	6	Couples in the Voyer d'Argenson Park at Asnieres	genre scene	landscape	67	1820.104	600	406	0.6767
+329.jpg	1887.417	104	115	2_Paris	1887	6	Garden with Sunflowers	rural_town	landscape	430	259.393	470	645	1.3723
+330.jpg	1887.417	198	95	2_Paris	1887	6	Interior of a Restaurant	cityscape	other 	478	289.594	650	530	0.8154
+331.jpg	1887.417	76	93	2_Paris	1887	6	Lane in Voyer d'Argenson Park at Asnieres	landscape	landscape	36	6378.639	700	543	0.7757
+332.jpg	1887.417	210	54	2_Paris	1887	6	Montmartre Path with Sunflowers	cityscape	landscape	101	1207.396	453	594	1.3113
+333.jpg	1887.417	168	111	2_Paris	1887	6	Outskirts of Paris: Road with Peasant Shouldering a Spade	cityscape	landscape	65	2155.385	630	411	0.6524
+334.jpg	1887.417	112	126	2_Paris	1887	6	Path in the Woods	landscape	landscape	677	217.622	487	591	1.2136
+335.jpg	1887.417	169	94	2_Paris	1887	6	Vegetable Gardens in Montmartre: La Butte Montmartre	cityscape	landscape	410	401.359	668	488	0.7305
+336.jpg	1887.417	177	86	2_Paris	1887	6	Walk Along the Banks of the Seine Near Asnieres	landscape	landscape	181	627.254	635	494	0.778
+337.jpg	1887.417	131	103	2_Paris	1887	6	Woman Walking in a Garden A	other	landscape	438	395.489	595	484	0.8134
+338.jpg	1887.5004	91	81	2_Paris	1887	7	Avenue in Voyer d'Argenson Park at Asnieres	landscape	landscape	330	288.576	591	480	0.8122
+339.jpg	1887.5004	174	74	2_Paris	1887	7	Banks of the Seine with the Pont de Clichy	landscape	landscape	68	2098.353	594	473	0.7963
+340.jpg	1887.5004	160	32	2_Paris	1887	7	Bathing Float on the Seine at Asnieres	landscape	landscape	174	888.54	646	449	0.695
+341.jpg	1887.5004	152	54	2_Paris	1887	7	Bridges across the Seine at Asnieres	landscape	landscape	145	1656.531	649	509	0.7843
+342.jpg	1887.5004	132	127	2_Paris	1887	7	Corner of Voyer d'Argenson Park at Asnieres	landscape	landscape	627	168.348	658	477	0.7249
+343.jpg	1887.5004	221	105	2_Paris	1887	7	Exterior of a Restaurant at Asnieres	cityscape	cityscape	275	161.193	599	411	0.6861
+344.jpg	1887.5004	226	97	2_Paris	1887	7	Factories at Asnieres Seen from the Quai de Clichy	cityscape	cityscape	228	514.373	653	487	0.7458
+345.jpg	1887.5004	151	92	2_Paris	1887	7	Factory at Asnieres The	cityscape	cityscape	392	460.936	579	468	0.8083
+346.jpg	1887.5004	168	81	2_Paris	1887	7	House with Sunflowers	cityscape	cityscape	215	803.665	700	520	0.7429
+347.jpg	1887.5004	146	180	2_Paris	1887	7	Lilacs	still-life	still-life	125	312.176	460	347	0.7543
+348.jpg	1887.5004	170	75	2_Paris	1887	7	Restaurant de la SirËne at AsniËres	cityscape	cityscape	158	1264.968	646	533	0.8251
+349.jpg	1887.5004	221	55	2_Paris	1887	7	Rispal Restaurant at AsniËres The	cityscape	cityscape	215	355.172	445	545	1.2247
+350.jpg	1887.5004	178	60	2_Paris	1887	7	Seine Bridge at Asnieres The	cityscape	landscape	78	1329.013	593	440	0.742
+351.jpg	1887.5004	226	42	2_Paris	1887	7	Seine with the Pont de Clichy The	cityscape	landscape	226	226.965	482	581	1.2054
+352.jpg	1887.5004	140	38	2_Paris	1887	7	Seine with the Pont de la Grande Jette The	cityscape	landscape	19	11298.316	644	510	0.7919
+353.jpg	1887.5004	25	112	2_Paris	1887	7	Self-Portrait	self-portrait	portrait	189	432.259	491	622	1.2668
+354.jpg	1887.5004	44	68	2_Paris	1887	7	Self-Portrait	self-portrait	portrait	416	229.401	472	657	1.3919
+355.jpg	1887.5004	79	102	2_Paris	1887	7	Self-Portrait	self-portrait	portrait	113	922.85	450	615	1.3667
+356.jpg	1887.5004	64	92	2_Paris	1887	7	Self-Portrait	self-portrait	portrait	76	1680.829	530	643	1.2132
+357.jpg	1887.5004	97	139	2_Paris	1887	7	Self-Portrait with Straw Hat	self-portrait	portrait	288	481.257	470	643	1.3681
+358.jpg	1887.5004	189	134	2_Paris	1887	7	Self-Portrait with Straw Hat	self-portrait	portrait	332	300.328	504	648	1.2857
+359.jpg	1887.5004	166	132	2_Paris	1887	7	Self-Portrait with Straw Hat	self-portrait	portrait	203	834.35	495	640	1.2929
+360.jpg	1887.5004	73	114	2_Paris	1887	7	Self-Portrait with Straw Hat and Pipe	self-portrait	portrait	255	752.557	495	658	1.3293
+361.jpg	1887.5004	53	120	2_Paris	1887	7	Trees and Undergrowth	landscape	landscape	645	144.191	470	573	1.2191
+362.jpg	1887.5004	56	142	2_Paris	1887	7	Trees and Undergrowth	landscape	landscape	1155	114.457	640	518	0.8094
+363.jpg	1887.5004	194	93	2_Paris	1887	7	Trees in a Field on a Sunny Day	landscape	landscape	234	750.786	643	524	0.8149
+364.jpg	1887.5004	58	91	2_Paris	1887	7	Undergrowth	landscape	other 	651	213.547	512	622	1.2148
+365.jpg	1887.5004	135	112	2_Paris	1887	7	Undergrowth	landscape	other 	305	529.174	600	418	0.6967
+366.jpg	1887.5004	75	110	2_Paris	1887	7	Vase with Cornflowers and Poppies	still-life	still-life	245	386.633	433	616	1.4226
+367.jpg	1887.5004	122	124	2_Paris	1887	7	Vase with Daisies and Anemones	still-life	still-life	267	480.959	363	610	1.6804
+368.jpg	1887.5004	106	121	2_Paris	1887	7	Vase with Lilacs Daisies and Anemones	still-life	still-life	451	239.412	550	669	1.2164
+369.jpg	1887.5004	218	43	2_Paris	1887	7	Vegetable Gardens at Montmartre	rural_town	landscape	188	498.665	623	488	0.7833
+370.jpg	1887.5004	203	42	2_Paris	1887	7	Wheat Field with a Lark	landscape	landscape	95	2160.074	699	578	0.8269
+371.jpg	1887.5838	95	110	2_Paris	1887	8	Four Cut Sunflowers	still-life	still-life	363	388.325	750	443	0.5907
+372.jpg	1887.5838	113	83	2_Paris	1887	8	Japonaiserie: Bridge in the Rain (after Hiroshige)	other	copy	170	697.906	500	698	1.396
+373.jpg	1887.5838	123	128	2_Paris	1887	8	Japonaiserie: Flowering Plum Tree (after Hiroshige)	other	copy	398	200.259	531	647	1.2185
+374.jpg	1887.5838	131	151	2_Paris	1887	8	Japonaiserie: Oiran (after Kesai Eisen)	other	copy	193	759.948	400	671	1.6775
+375.jpg	1887.5838	71	122	2_Paris	1887	8	Two Cut Sunflowers	still-life	still-life	239	636.628	700	525	0.75
+376.jpg	1887.5838	170	153	2_Paris	1887	8	Two Cut Sunflowers	still-life	still-life	337	346.896	554	458	0.8267
+377.jpg	1887.5838	124	125	2_Paris	1887	8	Two Cut Sunflowers	still-life	still-life	345	499.351	700	495	0.7071
+378.jpg	1887.7506	53	181	2_Paris	1887	10	Chrysanthemums and Wild Flowers in a Vase	still-life	still-life	306	275.17	474	582	1.2278
+379.jpg	1887.7506	115	90	2_Paris	1887	10	Portrait of Pere Tanguy	portrait	portrait	362	446.594	500	638	1.276
+380.jpg	1887.7506	105	71	2_Paris	1887	10	Self-Portrait	self-portrait	portrait	129	659.853	420	552	1.3143
+381.jpg	1887.7506	229	62	2_Paris	1887	10	Still Life with Basket of Apples (to Lucien Pissarro)	still-life	still-life	71	1078.718	669	530	0.7922
+382.jpg	1887.7506	171	134	2_Paris	1887	10	Still Life with French Novels and a Rose	still-life	still-life	396	423.894	620	486	0.7839
+383.jpg	1887.7506	135	171	2_Paris	1887	10	Still Life with Grapes	still-life	still-life	210	1163.838	700	480	0.6857
+384.jpg	1887.7506	146	36	2_Paris	1887	10	Still Life with Grapes Pears and Lemons	still-life	still-life	155	531.239	577	492	0.8527
+385.jpg	1887.7506	201	49	2_Paris	1887	10	Still Life with Red Cabbages and Onions	still-life	still-life	177	720.554	614	473	0.7704
+386.jpg	1887.834	98	90	2_Paris	1887	11	Still Life with Apples	still-life	still-life	554	313.449	674	491	0.7285
+387.jpg	1887.834	221	136	2_Paris	1887	11	Still Life with Basket of Apples	still-life	still-life	184	520.87	597	502	0.8409
+388.jpg	1887.9174	123	74	2_Paris	1887	12	Self-Portrait with a Japanese Print	self-portrait	portrait	364	342.525	470	593	1.2617
+389.jpg	1887.9174	150	97	2_Paris	1887	12	Still Life with Plaster Statuette a Rose and Two Novels	still-life	still-life	214	635.696	500	613	1.226
+390.jpg	1887.9174	192	204	2_Paris	1887	12	Italian Woman (Agostina Segatori?)	portrait	portrait	167	791.15	477	647	1.3564
+391.jpg	1888.0834	170	64	2_Paris	1888	2	Landscape with Snow	landscape	landscape	202	646.069	626	521	0.8323
+392.jpg	1888.0834	174	64	2_Paris	1888	2	Old Woman of Arles An	portrait	portrait	123	1265.098	464	649	1.3987
+393.jpg	1888.0834	169	138	2_Paris	1888	2	Pork-Butcher's Shop Seen from a Window A	cityscape	other 	152	895.316	430	522	1.214
+394.jpg	1888.0834	153	103	2_Paris	1888	2	Self-Portrait in Front of the Easel	self-portrait	portrait	162	876.852	450	590	1.3111
+395.jpg	1888.0834	210	39	2_Paris	1888	2	Snowy Landscape with Arles in the Background	landscape	landscape	155	661.819	616	519	0.8425
+396.jpg	1888.1668	163	88	3_Arles	1888	3	Avenue of Plane Trees near Arles Station	landscape	landscape	421	494.33	644	597	0.927
+397.jpg	1888.1668	176	78	3_Arles	1888	3	Blossoming Almond Branch in a Glass	still-life	still-life	511	201.793	519	645	1.2428
+398.jpg	1888.1668	193	73	3_Arles	1888	3	Blossoming Almond Branch in a Glass with a Book	still-life	still-life	128	1159.969	476	604	1.2689
+399.jpg	1888.1668	148	82	3_Arles	1888	3	Gleize Bridge over the Vigueirat Canal The	landscape	landscape	353	460.207	644	585	0.9084
+400.jpg	1888.1668	224	76	3_Arles	1888	3	Langlois Bridge at Arles with Road Alongside the Canal The	landscape	landscape	162	580.031	631	504	0.7987
+401.jpg	1888.1668	169	66	3_Arles	1888	3	Langlois Bridge at Arles with Women Washing The	landscape	landscape	161	1061.149	617	511	0.8282
+402.jpg	1888.1668	155	115	3_Arles	1888	3	Orchard in Blossom	landscape	landscape	372	370.315	488	652	1.3361
+403.jpg	1888.1668	144	77	3_Arles	1888	3	Orchard with Blossoming Apricot Trees	landscape	landscape	214	674.098	624	496	0.7949
+404.jpg	1888.1668	162	106	3_Arles	1888	3	Pair of Leather Clogs A	still-life	still-life	103	2134.039	700	541	0.7729
+405.jpg	1888.1668	196	48	3_Arles	1888	3	Pink Peach Tree in Blossom (Reminiscence of Mauve)	landscape	landscape	430	498.202	558	683	1.224
+406.jpg	1888.1668	191	93	3_Arles	1888	3	Still Life with Basket and Six Oranges	still-life	still-life	276	423.96	636	525	0.8255
+407.jpg	1888.1668	201	93	3_Arles	1888	3	Still Life: Potatoes in a Yellow Dish	still-life	still-life	380	264.429	597	496	0.8308
+408.jpg	1888.1668	133	150	3_Arles	1888	3	Two Lovers (Fragment)	other	figural 	138	1091.036	410	595	1.4512
+409.jpg	1888.2502	130	98	3_Arles	1888	4	Almond Tree in Blossom	landscape	landscape	332	450.738	420	570	1.3571
+410.jpg	1888.2502	144	70	3_Arles	1888	4	Apricot Trees in Blossom	landscape	landscape	397	421.622	646	529	0.8189
+411.jpg	1888.2502	173	84	3_Arles	1888	4	Blossoming Pear Tree	landscape	landscape	155	444.194	366	588	1.6066
+412.jpg	1888.2502	185	126	3_Arles	1888	4	Langlois Bridge at Arles The	landscape	landscape	150	949.96	552	508	0.9203
+413.jpg	1888.2502	155	112	3_Arles	1888	4	Orchard in Blossom	landscape	landscape	788	185.4	600	460	0.7667
+414.jpg	1888.2502	188	89	3_Arles	1888	4	Orchard in Blossom	landscape	landscape	318	282.544	480	597	1.24375
+415.jpg	1888.2502	165	56	3_Arles	1888	4	Orchard in Blossom (Plum Trees)	landscape	landscape	304	621.73	639	534	0.8357
+416.jpg	1888.2502	177	85	3_Arles	1888	4	Orchard in Blossom Bordered by Cypresses	landscape	landscape	175	802.966	620	493	0.7952
+417.jpg	1888.2502	199	69	3_Arles	1888	4	Orchard in Blossom Bordered by Cypresses	landscape	landscape	272	315.765	620	495	0.7984
+418.jpg	1888.2502	185	47	3_Arles	1888	4	Orchard with Peach Trees in Blossom	landscape	landscape	382	301.825	600	486	0.81
+419.jpg	1888.2502	164	94	3_Arles	1888	4	Path Through a Field with Willows	landscape	landscape	384	409.125	644	519	0.8059
+420.jpg	1888.2502	198	62	3_Arles	1888	4	Peach Tree in Blossom	landscape	landscape	507	145.801	420	573	1.3643
+421.jpg	1888.2502	185	110	3_Arles	1888	4	White Orchard The	landscape	landscape	301	498.598	600	450	0.75
+422.jpg	1888.3336	163	103	3_Arles	1888	5	Farmhouse in a Wheat Field	rural_town	landscape	167	1148.084	608	528	0.8684
+423.jpg	1888.3336	136	93	3_Arles	1888	5	Farmhouses in a Wheat Field Near Arles	rural_town	landscape	30	5988.3	683	459	0.672
+424.jpg	1888.3336	149	102	3_Arles	1888	5	Landscape Under a Stormy Sky	rural_town	landscape	615	242.579	643	546	0.8491
+425.jpg	1888.3336	205	146	3_Arles	1888	5	Lane near Arles A	rural_town	landscape	131	289.664	390	480	1.2308
+426.jpg	1888.3336	228	76	3_Arles	1888	5	Langlois Bridge at Arles The	landscape	landscape	32	4618.375	642	487	0.7586
+427.jpg	1888.3336	172	141	3_Arles	1888	5	Still Life: Blue Enamel Coffeepot Earthenware and Fruit	still-life	still-life	95	1164.095	639	492	0.77
+428.jpg	1888.3336	213	116	3_Arles	1888	5	Still Life: Bottle Lemons and Oranges	still-life	still-life	116	799.224	599	504	0.8414
+429.jpg	1888.3336	107	81	3_Arles	1888	5	Still Life: Bowl with Daisies	still-life	still-life	177	1032.266	585	459	0.7846
+430.jpg	1888.3336	209	129	3_Arles	1888	5	Still Life: Majolica Jug with Wildflowers	still-life	still-life	91	1245.637	504	618	1.2262
+431.jpg	1888.3336	146	84	3_Arles	1888	5	View of Arles with Irises in the Foreground	landscape	landscape	644	213.947	568	469	0.8257
+432.jpg	1888.417	177	163	3_Arles	1888	6	Arles: View from the Wheat Fields	rural_town	landscape	294	702.711	523	660	1.262
+433.jpg	1888.417	159	115	3_Arles	1888	6	Bridge at Trinquetaille The	cityscape	town	197	974.838	647	504	0.779
+434.jpg	1888.417	118	96	3_Arles	1888	6	Canal with Women Washing	cityscape	town	312	458.346	500	603	1.206
+435.jpg	1888.417	164	123	3_Arles	1888	6	Farmhouse in Provence	rural_town	town	7	30723	639	478	0.748
+436.jpg	1888.417	189	29	3_Arles	1888	6	Fishing Boats on the Beach at Saintes-Maries	other	landscape	82	1357.39	600	470	0.7833
+437.jpg	1888.417	170	97	3_Arles	1888	6	Girl with Ruffled Hair (The Mudlark)	portrait	portrait	123	1175.325	439	644	1.467
+438.jpg	1888.417	148	100	3_Arles	1888	6	Green Ears of Wheat	landscape	landscape	23	8659.217	617	513	0.8314
+439.jpg	1888.417	174	111	3_Arles	1888	6	Harvest at La Crau with Montmajour in the Background	landscape	landscape	206	832.223	644	513	0.7966
+440.jpg	1888.417	194	138	3_Arles	1888	6	Harvest in Provence	genre scene	landscape	333	453.667	592	467	0.7889
+441.jpg	1888.417	192	181	3_Arles	1888	6	Haystacks in Provence	rural_town	landscape	330	401.588	610	492	0.8066
+442.jpg	1888.417	155	92	3_Arles	1888	6	Seascape at Saintes-Maries	other	landscape	88	2225.443	654	506	0.7737
+443.jpg	1888.417	175	63	3_Arles	1888	6	Seascape at Saintes-Maries	other	landscape	209	461.608	511	418	0.818
+444.jpg	1888.417	110	99	3_Arles	1888	6	Seated Zouave The	portrait	portrait	50	1360.4	410	515	1.2561
+445.jpg	1888.417	139	76	3_Arles	1888	6	Sower The	genre scene	figural 	379	538.559	620	485	0.7823
+446.jpg	1888.417	178	139	3_Arles	1888	6	Street in Saintes-Maries	rural_town	landscape	99	1514.091	570	482	0.8456
+447.jpg	1888.417	184	196	3_Arles	1888	6	Sunset: Wheat Fields Near Arles	rural_town	landscape	364	350.431	600	478	0.7967
+448.jpg	1888.417	137	108	3_Arles	1888	6	Three White Cottages in Saintes-Maries	rural_town	town	380	161.479	644	518	0.8043
+449.jpg	1888.417	124	52	3_Arles	1888	6	View of Saintes-Maries	rural_town	town	107	1208.131	485	597	1.2309
+450.jpg	1888.417	179	144	3_Arles	1888	6	Wheat Field	rural_town	landscape	553	248.807	643	523	0.8134
+451.jpg	1888.417	130	128	3_Arles	1888	6	Wheat Field with Sheaves	landscape	landscape	530	199.628	600	508	0.8467
+452.jpg	1888.417	151	125	3_Arles	1888	6	Wheat Field with the Alpilles Foothills in the Background	landscape	landscape	183	1239.421	600	494	0.8233
+453.jpg	1888.417	145	67	3_Arles	1888	6	Wheat Fields with Stacks	landscape	landscape	55	1869.436	500	398	0.796
+454.jpg	1888.417	105	117	3_Arles	1888	6	Zouave (Half Length) The	portrait	portrait	167	812.659	500	588	1.176
+455.jpg	1888.5004	124	113	3_Arles	1888	7	Flowering Garden	landscape	landscape	393	246.087	440	562	1.2773
+456.jpg	1888.5004	149	141	3_Arles	1888	7	Flowering Garden with Path	landscape	landscape	101	1356.96	500	407	0.814
+457.jpg	1888.5004	188	56	3_Arles	1888	7	La Mousme Sitting	portrait	portrait	18	9961.611	520	634	1.2192
+458.jpg	1888.5004	128	62	3_Arles	1888	7	Painter on His Way to Work The	other	figural 	149	1252.322	505	558	1.105
+459.jpg	1888.5004	162	65	3_Arles	1888	7	Rocks with Oak Tree	landscape	landscape	38	4824.711	600	503	0.8383
+460.jpg	1888.5004	123	86	3_Arles	1888	7	Sunny Lawn in a Public Park	landscape	landscape	523	312.308	699	566	0.8097
+461.jpg	1888.5838	189	143	3_Arles	1888	8	Coal Barges	other	landscape	213	498.315	597	470	0.7873
+462.jpg	1888.5838	149	124	3_Arles	1888	8	Coal Barges	other	landscape	60	3460.417	641	533	0.8315
+463.jpg	1888.5838	196	84	3_Arles	1888	8	Encampment of Gypsies with Caravans	genre scene	town	87	1482.414	622	534	0.8585
+464.jpg	1888.5838	188	107	3_Arles	1888	8	Garden Behind a House	rural_town	town	256	401.559	436	531	1.2179
+465.jpg	1888.5838	132	136	3_Arles	1888	8	Interior of a Restaurant in Arles	cityscape	other 	141	1158.319	568	477	0.8398
+466.jpg	1888.5838	167	106	3_Arles	1888	8	Interior of the Restaurant Carrel in Arles	cityscape	other 	108	1372.389	555	460	0.8288
+467.jpg	1888.5838	171	96	3_Arles	1888	8	Pair of Shoes A	still-life	still-life	188	462.202	578	478	0.827
+468.jpg	1888.5838	152	182	3_Arles	1888	8	Portrait of Patience Escalier	portrait	portrait	93	1836.312	500	616	1.232
+469.jpg	1888.5838	83	103	3_Arles	1888	8	Portrait of the Postman Joseph Roulin	portrait	portrait	85	1254.753	445	576	1.2944
+470.jpg	1888.5838	160	48	3_Arles	1888	8	Portrait of the Postman Joseph Roulin	portrait	portrait	26	5814.923	495	628	1.2687
+471.jpg	1888.5838	174	92	3_Arles	1888	8	Quay with Men Unloading Sand Barges	genre scene	other 	159	639.396	549	456	0.8306
+472.jpg	1888.5838	162	131	3_Arles	1888	8	Railway Carriages	rural_town	town	259	604.023	650	525	0.8077
+473.jpg	1888.5838	199	79	3_Arles	1888	8	Self-Portrait with Pipe and Straw Hat	self-portrait	portrait	120	1488.608	468	658	1.406
+474.jpg	1888.5838	209	150	3_Arles	1888	8	Still Life: Vase with Fifteen Sunflowers	still-life	still-life	24	11153.25	581	739	1.2719
+475.jpg	1888.5838	102	116	3_Arles	1888	8	Still Life: Vase with Five Sunflowers	still-life	still-life	174	863.96	470	690	1.4681
+476.jpg	1888.5838	147	82	3_Arles	1888	8	Still Life: Vase with Oleanders	still-life	still-life	122	826.541	422	592	1.4028
+477.jpg	1888.5838	177	144	3_Arles	1888	8	Still Life: Vase with Oleanders and Books	still-life	still-life	203	685.754	600	493	0.8217
+478.jpg	1888.5838	149	135	3_Arles	1888	8	Still Life: Vase with Twelve Sunflowers	still-life	still-life	188	931.319	592	757	1.2787
+479.jpg	1888.5838	50	127	3_Arles	1888	8	Still Life: Vase with Zinnias	still-life	still-life	160	207.438	418	568	1.3589
+480.jpg	1888.5838	178	116	3_Arles	1888	8	Thistles	landscape	landscape	251	545.127	425	520	1.2235
+481.jpg	1888.5838	160	128	3_Arles	1888	8	Three Sunflowers in a Vase	still-life	still-life	216	802.5	528	663	1.2557
+482.jpg	1888.5838	149	110	3_Arles	1888	8	Two Thistles	landscape	landscape	187	708.722	441	554	1.2562
+483.jpg	1888.6672	143	99	3_Arles	1888	9	Cafe Terrace on the Place du Forum Arles at Night The	cityscape	cityscape	334	691.072	596	735	1.2332
+484.jpg	1888.6672	177	102	3_Arles	1888	9	Entrance to the Public Park in Arles	cityscape	town	102	1626.676	600	467	0.7783
+485.jpg	1888.6672	133	87	3_Arles	1888	9	Green Vineyard The	landscape	landscape	426	298.2	593	460	0.7757
+486.jpg	1888.6672	91	162	3_Arles	1888	9	Lane in the Public Garden at Arles A	cityscape	landscape	355	465.234	600	474	0.79
+487.jpg	1888.6672	160	127	3_Arles	1888	9	Night Cafe in the Place Lamartine in Arles The	cityscape	figural 	465	469.578	746	591	0.7922
+488.jpg	1888.6672	179	80	3_Arles	1888	9	Old Mill The	rural_town	town 	21	10333.143	500	590	1.18
+489.jpg	1888.6672	203	129	3_Arles	1888	9	Ploughed Field	landscape	landscape	216	468.426	600	487	0.8117
+490.jpg	1888.6672	107	120	3_Arles	1888	9	Portrait of Eugene Boch	portrait	portrait	40	3543.45	459	618	1.3464
+491.jpg	1888.6672	194	80	3_Arles	1888	9	Self-Portrait (Dedicated to Paul Gauguin)	self-portrait	portrait	80	1116.088	489	590	1.2065
+492.jpg	1888.6672	98	64	3_Arles	1888	9	Sower: Outskirts of Arles in the Background The	genre scene	figural 	214	488.907	601	497	0.827
+493.jpg	1888.6672	93	38	3_Arles	1888	9	Starry Night Over the Rhone	cityscape	landscape	831	188.502	719	569	0.7914
+494.jpg	1888.6672	170	157	3_Arles	1888	9	Vincent's House in Arles (The Yellow House)	cityscape	town 	63	3135.349	670	531	0.7925
+495.jpg	1888.7506	98	127	3_Arles	1888	10	Brothel The	genre scene	figural 	209	1027.383	728	525	0.7212
+496.jpg	1888.7506	140	155	3_Arles	1888	10	Les Alyscamps	cityscape	town 	338	684.151	528	672	1.2727
+497.jpg	1888.7506	171	109	3_Arles	1888	10	Portrait of the Artist's Mother	portrait	portrait	31	3252.29	450	572	1.2711
+498.jpg	1888.7506	175	65	3_Arles	1888	10	Public Garden with Couple and Blue Fir Tree: The Poet's Garden III	cityscape	landscape	168	868.792	598	478	0.7993
+499.jpg	1888.7506	126	97	3_Arles	1888	10	Public Park at Arles The	cityscape	landscape	375	296.928	609	473	0.7767
+500.jpg	1888.7506	201	78	3_Arles	1888	10	Railway Bridge over Avenue Montmajour Arles The	cityscape	town 	160	680.762	621	487	0.7842
+501.jpg	1888.7506	190	160	3_Arles	1888	10	Sower The	genre scene	landscape	863	73.793	570	451	0.7912
+502.jpg	1888.7506	177	147	3_Arles	1888	10	Still Life: French Novels	still-life	still-life	212	1154.25	680	494	0.7265
+503.jpg	1888.7506	191	95	3_Arles	1888	10	Tarascon Diligence	cityscape	town 	107	885.579	600	468	0.78
+504.jpg	1888.7506	181	75	3_Arles	1888	10	Trinquetaille Bridge The	cityscape	town 	146	1235.692	650	519	0.7985
+505.jpg	1888.7506	206	115	3_Arles	1888	10	Trunk of an Old Yew Tree	landscape	landscape	258	313.891	442	578	1.3077
+506.jpg	1888.7506	190	98	3_Arles	1888	10	Vincent's Bedroom in Arles	cityscape	other 	89	3336.584	714	564	0.7899
+507.jpg	1888.7506	147	228	3_Arles	1888	10	Willows at Sunset	landscape	landscape	275	452.127	525	476	0.9067
+508.jpg	1888.834	191	177	3_Arles	1888	11	L'Arlesienne: Madame Ginoux with Books	portrait	portrait	17	6381.765	450	574	1.2756
+509.jpg	1888.834	120	108	3_Arles	1888	11	L'Arlesienne: Madame Ginoux with Gloves and Umbrella	portrait	portrait	25	4618.68	417	543	1.3022
+510.jpg	1888.834	150	112	3_Arles	1888	11	Les Alyscamps	cityscape	town 	181	919.818	640	506	0.7906
+511.jpg	1888.834	147	174	3_Arles	1888	11	Les Alyscamps	cityscape	town 	237	854.658	473	599	1.2664
+512.jpg	1888.834	166	149	3_Arles	1888	11	Les Alyscamps: Falling Autumn Leaves	cityscape	town 	285	264.989	600	489	0.815
+513.jpg	1888.834	134	116	3_Arles	1888	11	Memory of the Garden at Etten	genre scene	figural 	388	272.954	500	392	0.784
+514.jpg	1888.834	121	120	3_Arles	1888	11	Mother Roulin with Her Baby	portrait	portrait	90	1472.367	426	565	1.3263
+515.jpg	1888.834	215	134	3_Arles	1888	11	Mother Roulin with Her Baby	portrait	portrait	164	581.433	450	570	1.2667
+516.jpg	1888.834	153	146	3_Arles	1888	11	Novel Reader The	genre scene	figural 	23	1537.652	275	215	0.7818
+517.jpg	1888.834	147	122	3_Arles	1888	11	Portrait of Armand Roulin	portrait	portrait	19	10285.684	433	527	1.2171
+518.jpg	1888.834	136	86	3_Arles	1888	11	Portrait of Armand Roulin	portrait	portrait	65	3083.692	524	643	1.2271
+519.jpg	1888.834	138	127	3_Arles	1888	11	Portrait of Camille Roulin	portrait	portrait	214	798.271	439	540	1.2301
+520.jpg	1888.834	142	138	3_Arles	1888	11	Portrait of Camille Roulin	portrait	portrait	43	3985.884	462	588	1.2727
+521.jpg	1888.834	157	178	3_Arles	1888	11	Portrait of Madame Augustine Roulin	portrait	portrait	283	774.654	625	532	0.8512
+522.jpg	1888.834	178	189	3_Arles	1888	11	Portrait of the Postman Joseph Roulin	portrait	portrait	4	47262	561	671	1.1961
+523.jpg	1888.834	136	140	3_Arles	1888	11	Red Vineyard The	genre scene	landscape	600	336.787	688	529	0.7689
+524.jpg	1888.834	157	133	3_Arles	1888	11	Self-Portrait	self-portrait	portrait	146	1152.24	545	665	1.2202
+525.jpg	1888.834	146	126	3_Arles	1888	11	Sower The	genre scene	figural 	74	2129.027	600	476	0.7933
+526.jpg	1888.834	124	69	3_Arles	1888	11	Sower The	genre scene	figural 	187	1198.824	720	582	0.8083
+527.jpg	1888.9174	212	73	3_Arles	1888	12	Baby Marcelle Roulin The	portrait	portrait	152	484.289	360	476	1.3222
+528.jpg	1888.9174	171	120	3_Arles	1888	12	Baby Marcelle Roulin The	portrait	portrait	223	733.906	443	662	1.4944
+529.jpg	1888.9174	165	71	3_Arles	1888	12	Baby Marcelle Roulin The	portrait	portrait	123	884.951	428	628	1.4673
+530.jpg	1888.9174	76	81	3_Arles	1888	12	Dance Hall in Arles The	genre scene	figural 	232	467.147	652	514	0.7883
+531.jpg	1888.9174	113	117	3_Arles	1888	12	La Berceuse (Augustine Roulin)	portrait	portrait	375	292.408	460	581	1.263
+532.jpg	1888.9174	84	170	3_Arles	1888	12	Paul Gauguin's Armchair	still-life	still-life	462	96.587	480	603	1.25625
+533.jpg	1888.9174	118	88	3_Arles	1888	12	Portrait of a One-Eyed Man	portrait	portrait	269	455.39	401	625	1.5586
+534.jpg	1888.9174	204	114	3_Arles	1888	12	Portrait of Joseph-Michel Ginoux	portrait	portrait	7	17813.571	470	562	1.1957
+535.jpg	1888.9174	140	122	3_Arles	1888	12	Schoolboy (Camille Roulin) The	portrait	portrait	61	4510.443	512	606	1.1836
+536.jpg	1888.9174	149	124	3_Arles	1888	12	Smoker The	portrait	portrait	217	588.949	475	629	1.3242
+537.jpg	1888.9174	110	119	3_Arles	1888	12	Spectators in the Arena at Arles	genre scene	figural 	403	272.074	643	512	0.7963
+538.jpg	1888.9174	151	160	3_Arles	1888	12	Vincent's Chair with His Pipe	still-life	still-life	298	537.842	536	689	1.2854
+539.jpg	1888.9174	214	190	3_Arles	1888	12	Young Man with a Cap	portrait	portrait	39	2063.359	434	572	1.318
+540.jpg	1889	166	165	3_Arles	1889	1	Crab on Its Back	self-portrait	portrait	256	708.613	553	630	1.1392
+541.jpg	1889	140	79	3_Arles	1889	1	La Berceuse (Augustine Roulin)	other	still-life	189	638.81	608	490	0.8059
+542.jpg	1889	122	154	3_Arles	1889	1	Portrait of Doctor Felix Rey	portrait	portrait	208	497.303	468	600	1.2821
+543.jpg	1889	80	97	3_Arles	1889	1	Self-Portrait with Bandaged Ear	portrait	portrait	426	174.512	520	644	1.2385
+544.jpg	1889	103	56	3_Arles	1889	1	Self-Portrait with Bandaged Ear and Pipe	self-portrait	portrait	218	768.179	569	692	1.2162
+545.jpg	1889	112	70	3_Arles	1889	1	Still Life with Oranges Lemons and Blue Gloves	landscape	town 	381	293.99	510	403	0.7902
+546.jpg	1889	163	117	3_Arles	1889	1	Still Life: Bloaters on a Piece of Yellow Paper	still-life	still-life	28	4637.429	526	405	0.77
+547.jpg	1889	142	125	3_Arles	1889	1	Still Life: Drawing Board Pipe Onions and Sealing-Wax	still-life	still-life	263	923.243	642	508	0.7913
+548.jpg	1889	194	124	3_Arles	1889	1	Still Life: Two Red Herrings	still-life	still-life	375	225.293	597	458	0.7672
+549.jpg	1889	195	149	3_Arles	1889	1	Still Life: Vase with Fifteen Sunflowers	still-life	still-life	231	775.429	529	683	1.2911
+550.jpg	1889	143	182	3_Arles	1889	1	Still Life: Vase with Fifteen Sunflowers	still-life	still-life	249	740.185	527	689	1.3074
+551.jpg	1889	197	161	3_Arles	1889	1	Still Life: Vase with Twelve Sunflowers	still-life	still-life	303	606.363	550	684	1.2436
+552.jpg	1889	127	111	3_Arles	1889	1	Two Crabs	other	still-life	145	1229.131	650	464	0.7138
+553.jpg	1889.0834	105	126	3_Arles	1889	2	La Berceuse (Augustine Roulin)	portrait	portrait	645	188.205	519	660	1.2717
+554.jpg	1889.1668	112	121	3_Arles	1889	3	La Berceuse (Augustine Roulin)	portrait	portrait	403	292.682	470	607	1.2915
+555.jpg	1889.1668	59	165	3_Arles	1889	3	Two White Butterflies	landscape	other 	476	368.918	486	589	1.2119
+556.jpg	1889.2502	151	80	3_Arles	1889	4	Clumps of Grass	landscape	other 	567	242.427	593	545	0.9191
+557.jpg	1889.2502	118	101	4_Saint-Remy-de-Provence_asylum	1889	4	Courtyard of the Hospital at Arles The	cityscape	town 	466	306.83	600	470	0.7833
+558.jpg	1889.2502	233	126	4_Saint-Remy-de-Provence_asylum	1889	4	Field of Yellow Flowers A	landscape	other 	694	68.148	679	409	0.6024
+559.jpg	1889.2502	176	74	4_Saint-Remy-de-Provence_asylum	1889	4	La Crau with Peach Trees in Blossom	rural_town	town 	100	1611.89	584	475	0.8134
+560.jpg	1889.2502	121	29	4_Saint-Remy-de-Provence_asylum	1889	4	Orchard in Blossom with View of Arles	rural_town	town 	382	337.864	586	461	0.7867
+561.jpg	1889.2502	139	105	4_Saint-Remy-de-Provence_asylum	1889	4	Pollard Willows	landscape	landscape	278	564.95	600	494	0.8233
+562.jpg	1889.2502	189	138	4_Saint-Remy-de-Provence_asylum	1889	4	Portrait of the Postman Joseph Roulin	portrait	portrait	132	834.667	500	611	1.222
+563.jpg	1889.2502	123	89	4_Saint-Remy-de-Provence_asylum	1889	4	Portrait of the Postman Joseph Roulin	portrait	portrait	533	224.413	460	538	1.1696
+564.jpg	1889.2502	138	123	4_Saint-Remy-de-Provence_asylum	1889	4	Portrait of the Postman Joseph Roulin	portrait	portrait	196	922.337	507	622	1.2268
+565.jpg	1889.2502	165	100	4_Saint-Remy-de-Provence_asylum	1889	4	Red Chestnuts in the Public Park at Arles	genre scene	figural 	28	5874.25	580	443	0.7638
+566.jpg	1889.2502	141	79	4_Saint-Remy-de-Provence_asylum	1889	4	Rosebush in Blossom	landscape	other 	193	751.528	560	433	0.7732
+567.jpg	1889.2502	141	100	4_Saint-Remy-de-Provence_asylum	1889	4	View of Arles with Trees in Blossom	landscape	landscape	379	269.689	610	488	0.8
+568.jpg	1889.2502	172	70	4_Saint-Remy-de-Provence_asylum	1889	4	Ward in the Hospital in Arles	cityscape	figural 	242	549.64	568	441	0.7764
+569.jpg	1889.3336	133	74	4_Saint-Remy-de-Provence_asylum	1889	5	Field of Spring Wheat at Sunrise	landscape	landscape	381	311.197	560	449	0.8018
+570.jpg	1889.3336	155	93	4_Saint-Remy-de-Provence_asylum	1889	5	Garden of Saint-Paul Hospital The	cityscape	town 	604	218.614	454	577	1.2709
+571.jpg	1889.3336	103	93	4_Saint-Remy-de-Provence_asylum	1889	5	Great Peacock Moth	other	other 	348	449.261	450	608	1.3511
+572.jpg	1889.3336	111	101	4_Saint-Remy-de-Provence_asylum	1889	5	Iris The	landscape	other 	308	637.692	480	611	1.2729
+573.jpg	1889.3336	128	83	4_Saint-Remy-de-Provence_asylum	1889	5	Irises	landscape	other 	544	355.393	636	506	0.7956
+574.jpg	1889.3336	140	59	4_Saint-Remy-de-Provence_asylum	1889	5	Lilacs	landscape	landscape	369	378.992	560	436	0.7786
+575.jpg	1889.417	169	96	4_Saint-Remy-de-Provence_asylum	1889	6	At the Foot of the Mountains	rural_town	town 	119	1158.933	477	565	1.1845
+576.jpg	1889.417	125	79	4_Saint-Remy-de-Provence_asylum	1889	6	Cypresses	landscape	landscape	401	393.15	566	714	1.2615
+577.jpg	1889.417	91	158	4_Saint-Remy-de-Provence_asylum	1889	6	Cypresses with Two Female Figures	landscape	landscape	257	297.506	450	571	1.2689
+578.jpg	1889.417	110	90	4_Saint-Remy-de-Provence_asylum	1889	6	Field with Poppies	rural_town	landscape	584	249.247	635	504	0.7937
+579.jpg	1889.417	136	79	4_Saint-Remy-de-Provence_asylum	1889	6	Green Wheat Field	landscape	landscape	432	308.97	633	502	0.793
+580.jpg	1889.417	155	78	4_Saint-Remy-de-Provence_asylum	1889	6	Green Wheat Field with Cypress	landscape	landscape	383	550.627	685	543	0.7927
+581.jpg	1889.417	122	113	4_Saint-Remy-de-Provence_asylum	1889	6	Le Mont Gaussier with the Mas de Saint-Paul	landscape	landscape	99	2258.253	688	524	0.7616
+582.jpg	1889.417	175	69	4_Saint-Remy-de-Provence_asylum	1889	6	Mountainous Landscape Behind Saint-Paul Hospital	landscape	landscape	70	4375.429	699	559	0.7997
+583.jpg	1889.417	148	58	4_Saint-Remy-de-Provence_asylum	1889	6	Olive Grove	landscape	landscape	362	496.82	622	488	0.7846
+584.jpg	1889.417	176	48	4_Saint-Remy-de-Provence_asylum	1889	6	Olive Grove	landscape	landscape	209	966.78	622	488	0.7846
+585.jpg	1889.417	107	88	4_Saint-Remy-de-Provence_asylum	1889	6	Olive Grove: Bright Blue Sky	landscape	landscape	352	603.247	670	504	0.7522
+586.jpg	1889.417	158	68	4_Saint-Remy-de-Provence_asylum	1889	6	Olive Trees with the Alpilles in the Background	landscape	landscape	52	4184.885	645	526	0.8155
+587.jpg	1889.417	146	66	4_Saint-Remy-de-Provence_asylum	1889	6	Starry Night	rural_town	landscape	360	708.089	745	596	0.8
+588.jpg	1889.417	143	66	4_Saint-Remy-de-Provence_asylum	1889	6	Wheat Field with Cypresses at the Haute Galline Near Eygalieres	landscape	landscape	186	1170.478	695	551	0.7928
+589.jpg	1889.417	213	183	4_Saint-Remy-de-Provence_asylum	1889	6	Wheat Field with Reaper and Sun	landscape	landscape	312	652.949	680	543	0.7985
+590.jpg	1889.5004	62	88	4_Saint-Remy-de-Provence_asylum	1889	7	Entrance to a Quarry	landscape	landscape	544	195.438	676	552	0.8166
+591.jpg	1889.5004	130	136	4_Saint-Remy-de-Provence_asylum	1889	7	Evening Landscape with Rising Moon	landscape	landscape	625	182.235	560	447	0.7982
+592.jpg	1889.5004	193	61	4_Saint-Remy-de-Provence_asylum	1889	7	Mountains at Saint-Remy with Dark Cottage	landscape	landscape	107	1629.813	650	522	0.8031
+593.jpg	1889.5004	83	88	4_Saint-Remy-de-Provence_asylum	1889	7	Tree Trunks with Ivy	landscape	landscape	622	165.601	630	505	0.8016
+594.jpg	1889.5004	92	45	4_Saint-Remy-de-Provence_asylum	1889	7	Undergrowth with Ivy	landscape	landscape	643	187.236	652	490	0.7515
+595.jpg	1889.5838	112	126	4_Saint-Remy-de-Provence_asylum	1889	8	Enclosed Field with Ploughman	landscape	landscape	379	198.119	595	458	0.7697
+596.jpg	1889.5838	54	90	4_Saint-Remy-de-Provence_asylum	1889	8	Self-Portrait	self-portrait	portrait	390	182.705	500	653	1.306
+597.jpg	1889.5838	77	66	4_Saint-Remy-de-Provence_asylum	1889	8	Tree Trunks with Ivy	landscape	landscape	683	97.139	580	418	0.7207
+598.jpg	1889.6672	186	63	4_Saint-Remy-de-Provence_asylum	1889	9	Half Figure of an Angel (after Rembrandt)	other	figural 	283	530.466	589	480	0.8149
+599.jpg	1889.6672	149	62	4_Saint-Remy-de-Provence_asylum	1889	9	Olive Trees	landscape	landscape	287	748.247	643	533	0.8289
+600.jpg	1889.6672	171	86	4_Saint-Remy-de-Provence_asylum	1889	9	Peasant Woman Binding Sheaves (after Millet)	genre scene	figural 	239	581.452	460	615	1.337
+601.jpg	1889.6672	158	119	4_Saint-Remy-de-Provence_asylum	1889	9	Peasant Woman Cutting Straw (after Millet)	genre scene	figural 	345	410.974	420	659	1.569
+602.jpg	1889.6672	187	83	4_Saint-Remy-de-Provence_asylum	1889	9	Peasant Woman with a Rake (after Millet)	genre scene	figural 	133	978.579	366	604	1.6503
+603.jpg	1889.6672	116	82	4_Saint-Remy-de-Provence_asylum	1889	9	Piet‡ (after Delacroix) The	other	figural 	228	875.184	517	630	1.2186
+604.jpg	1889.6672	73	102	4_Saint-Remy-de-Provence_asylum	1889	9	Piet‡ (after Delacroix) The	other	figural 	269	400.967	460	569	1.237
+605.jpg	1889.6672	190	120	4_Saint-Remy-de-Provence_asylum	1889	9	Portrait of a Young Peasant	portrait	portrait	294	360.925	450	553	1.2289
+606.jpg	1889.6672	179	97	4_Saint-Remy-de-Provence_asylum	1889	9	Portrait of Madame Trabuc	portrait	portrait	17	6375.471	438	600	1.3699
+607.jpg	1889.6672	177	144	4_Saint-Remy-de-Provence_asylum	1889	9	Reaper (after Millet) The	genre scene	figural 	81	2108.16	350	637	1.82
+608.jpg	1889.6672	146	131	4_Saint-Remy-de-Provence_asylum	1889	9	Reaper with Sickle (after Millet)	genre scene	figural 	204	975.426	489	671	1.3722
+609.jpg	1889.6672	152	79	4_Saint-Remy-de-Provence_asylum	1889	9	Self-Portrait	self-portrait	portrait	262	496.885	480	608	1.2667
+610.jpg	1889.6672	201	50	4_Saint-Remy-de-Provence_asylum	1889	9	Self-Portrait	self-portrait	portrait	184	542.587	547	660	1.2066
+611.jpg	1889.6672	124	158	4_Saint-Remy-de-Provence_asylum	1889	9	Sheaf-Binder The (after Millet)	genre scene	figural 	373	311.716	487	678	1.3922
+612.jpg	1889.6672	166	129	4_Saint-Remy-de-Provence_asylum	1889	9	Sheep-Shearers The (after Millet)	genre scene	figural 	144	1061.333	395	601	1.5215
+613.jpg	1889.6672	154	50	4_Saint-Remy-de-Provence_asylum	1889	9	Spinner The	genre scene	figural 	219	446.868	364	589	1.6181
+614.jpg	1889.6672	146	134	4_Saint-Remy-de-Provence_asylum	1889	9	Thresher (after Millet) The	genre scene	figural 	259	544.598	380	633	1.6658
+615.jpg	1889.6672	192	81	4_Saint-Remy-de-Provence_asylum	1889	9	Vincent's Bedroom in Arles	cityscape	other 	155	1079.187	600	470	0.7833
+616.jpg	1889.6672	223	170	4_Saint-Remy-de-Provence_asylum	1889	9	Wheat Field Behind Saint-Paul Hospital with a Reaper	landscape	landscape	183	1144.923	621	509	0.8196
+617.jpg	1889.6672	192	37	4_Saint-Remy-de-Provence_asylum	1889	9	Wheat Field with Cypresses	landscape	landscape	226	718.204	733	552	0.7531
+618.jpg	1889.6672	173	73	4_Saint-Remy-de-Provence_asylum	1889	9	Wheat Field with Cypresses	landscape	landscape	122	1404.098	689	552	0.8012
+619.jpg	1889.6672	232	79	4_Saint-Remy-de-Provence_asylum	1889	9	Wheat Fields with Reaper at Sunrise	landscape	landscape	404	301.27	667	530	0.7946
+620.jpg	1889.7506	170	72	4_Saint-Remy-de-Provence_asylum	1889	10	Enclosed Wheat Field with Peasant	landscape	landscape	362	436.779	600	479	0.7983
+621.jpg	1889.7506	120	54	4_Saint-Remy-de-Provence_asylum	1889	10	Entrance to a Quarry near Saint-Remy	landscape	landscape	366	329.298	559	458	0.8193
+622.jpg	1889.7506	110	85	4_Saint-Remy-de-Provence_asylum	1889	10	Evening: The Watch (after Millet)	genre scene	figural 	354	301.944	550	470	0.8545
+623.jpg	1889.7506	178	136	4_Saint-Remy-de-Provence_asylum	1889	10	Field with Ploughman and Mill	landscape	landscape	144	1055.431	550	457	0.8309
+624.jpg	1889.7506	137	99	4_Saint-Remy-de-Provence_asylum	1889	10	Garden of Saint-Paul Hospital The	cityscape	town	465	272.112	447	589	1.3177
+625.jpg	1889.7506	85	137	4_Saint-Remy-de-Provence_asylum	1889	10	Garden of Saint-Paul Hospital The	cityscape	town	216	820.444	577	452	0.7834
+626.jpg	1889.7506	129	133	4_Saint-Remy-de-Provence_asylum	1889	10	Les Peiroulets Ravine	landscape	landscape	429	439.697	670	507	0.7567
+627.jpg	1889.7506	153	64	4_Saint-Remy-de-Provence_asylum	1889	10	Les Peiroulets Ravine	landscape	landscape	322	424.202	550	446	0.8109
+628.jpg	1889.7506	123	78	4_Saint-Remy-de-Provence_asylum	1889	10	Man is at Sea (after Demont-Breton) The	genre scene	figural 	221	432.624	373	492	1.319
+629.jpg	1889.7506	142	97	4_Saint-Remy-de-Provence_asylum	1889	10	Mulberry Tree The	landscape	landscape	505	322.343	672	556	0.8274
+630.jpg	1889.7506	85	120	4_Saint-Remy-de-Provence_asylum	1889	10	Portrait of a Patient in Saint-Paul Hospital	portrait	portrait	80	1419.65	443	633	1.4289
+631.jpg	1889.7506	109	98	4_Saint-Remy-de-Provence_asylum	1889	10	Sower The (after Millet)	genre scene	figural 	745	177.443	523	647	1.2371
+632.jpg	1889.7506	129	99	4_Saint-Remy-de-Provence_asylum	1889	10	Sower The (after Millet)	genre scene	figural 	321	320.863	438	573	1.3082
+633.jpg	1889.7506	131	138	4_Saint-Remy-de-Provence_asylum	1889	10	Trees in the Garden of Saint-Paul Hospital	cityscape	town	654	150.298	460	566	1.2304
+634.jpg	1889.7506	109	74	4_Saint-Remy-de-Provence_asylum	1889	10	Trees in the Garden of Saint-Paul Hospital	cityscape	town	654	183.815	451	637	1.4124
+635.jpg	1889.7506	114	93	4_Saint-Remy-de-Provence_asylum	1889	10	Two Peasants Digging (after Millet)	genre scene	figural 	256	521.582	574	450	0.784
+636.jpg	1889.7506	125	137	4_Saint-Remy-de-Provence_asylum	1889	10	Two Poplars on a Road Through the Hills	rural_town	town	332	584.166	528	734	1.3902
+637.jpg	1889.7506	190	67	4_Saint-Remy-de-Provence_asylum	1889	10	View of the Church of Saint-Paul-de-Mausole	cityscape	town	493	189.32	610	463	0.759
+638.jpg	1889.7506	182	167	4_Saint-Remy-de-Provence_asylum	1889	10	Walk: Falling Leaves The	cityscape	town	200	852.53	430	531	1.2349
+639.jpg	1889.834	142	118	4_Saint-Remy-de-Provence_asylum	1889	11	Evening: The End of the Day (after Millet)	genre scene	figural 	197	817.766	598	467	0.7809
+640.jpg	1889.834	139	107	4_Saint-Remy-de-Provence_asylum	1889	11	Garden of Saint-Paul Hospital with Figure The	cityscape	town	246	541.272	444	525	1.1824
+641.jpg	1889.834	138	75	4_Saint-Remy-de-Provence_asylum	1889	11	Garden of Saint-Paul Hospital The	cityscape	town	403	380.325	636	507	0.7972
+642.jpg	1889.834	152	133	4_Saint-Remy-de-Provence_asylum	1889	11	Landscape with Trees and Figures	landscape	town	159	536.61	457	348	0.7615
+643.jpg	1889.834	143	86	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Grove	landscape	landscape	507	270.189	630	505	0.8016
+644.jpg	1889.834	140	84	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Grove: Orange Sky	landscape	landscape	92	1985.739	600	481	0.8017
+645.jpg	1889.834	151	54	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Grove: Pale Blue Sky	landscape	landscape	393	325.115	592	465	0.7855
+646.jpg	1889.834	56	156	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Trees against a Slope of a Hill	landscape	landscape	574	379.333	726	590	0.8127
+647.jpg	1889.834	163	128	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Trees with Yellow Sky and Sun	landscape	landscape	29	8758.31	694	545	0.7853
+648.jpg	1889.834	195	90	4_Saint-Remy-de-Provence_asylum	1889	11	Olive Trees: Bright Blue Sky	landscape	landscape	259	427.398	600	453	0.755
+649.jpg	1889.834	156	141	4_Saint-Remy-de-Provence_asylum	1889	11	Pine Trees against a Red Sky with Setting Sun	landscape	landscape	146	1042.753	443	563	1.2709
+650.jpg	1889.834	126	124	4_Saint-Remy-de-Provence_asylum	1889	11	Pine Trees with Figure in the Garden of Saint-Paul Hospital	cityscape	town	442	327.91	443	609	1.3747
+651.jpg	1889.834	188	105	4_Saint-Remy-de-Provence_asylum	1889	11	Road Menders The	cityscape	town	241	614.934	650	516	0.7938
+652.jpg	1889.834	201	71	4_Saint-Remy-de-Provence_asylum	1889	11	Road Menders The	cityscape	town	595	149.492	650	525	0.8077
+653.jpg	1889.834	169	103	4_Saint-Remy-de-Provence_asylum	1889	11	Shepherdess The (after Millet)	other	figural 	217	491.341	420	555	1.3214
+654.jpg	1889.834	124	136	4_Saint-Remy-de-Provence_asylum	1889	11	Stone Bench in the Garden of Saint-Paul Hospital The	cityscape	other 	495	251.642	586	480	0.8191
+655.jpg	1889.834	108	120	4_Saint-Remy-de-Provence_asylum	1889	11	Study of Pine Trees	landscape	landscape	439	241.549	509	462	0.9077
+656.jpg	1889.834	102	108	4_Saint-Remy-de-Provence_asylum	1889	11	Two Diggers among Trees	genre scene	landscape	595	228.079	500	645	1.29
+657.jpg	1889.834	161	87	4_Saint-Remy-de-Provence_asylum	1889	11	Wheat Field Behind Saint-Paul Hospital	landscape	landscape	262	345.737	681	482	0.7078
+658.jpg	1889.834	133	43	4_Saint-Remy-de-Provence_asylum	1889	11	Wheat Field in Rain	landscape	landscape	669	198.105	665	510	0.7669
+659.jpg	1889.9174	151	85	4_Saint-Remy-de-Provence_asylum	1889	12	Enclosed Field with Rising Sun	landscape	landscape	49	5057.796	630	493	0.7825
+660.jpg	1889.9174	185	166	4_Saint-Remy-de-Provence_asylum	1889	12	Field with Two Rabbits	landscape	landscape	344	302.776	600	475	0.7917
+661.jpg	1889.9174	146	97	4_Saint-Remy-de-Provence_asylum	1889	12	Garden of Saint-Paul Hospital The	cityscape	town	539	243.672	600	486	0.81
+662.jpg	1889.9174	146	54	4_Saint-Remy-de-Provence_asylum	1889	12	Les Peiroulets Ravine	landscape	landscape	245	696.669	600	472	0.7867
+663.jpg	1889.9174	151	101	4_Saint-Remy-de-Provence_asylum	1889	12	Meadow in the Mountains: Le Mas de Saint-Paul A	landscape	landscape	479	411.881	663	534	0.8054
+664.jpg	1889.9174	154	101	4_Saint-Remy-de-Provence_asylum	1889	12	Olive Grove with Picking Figures	genre scene	landscape	123	1758.496	677	520	0.7681
+665.jpg	1889.9174	174	82	4_Saint-Remy-de-Provence_asylum	1889	12	Olive Picking	genre scene	landscape	62	2903.677	620	494	0.7968
+666.jpg	1889.9174	154	167	4_Saint-Remy-de-Provence_asylum	1889	12	Olive Picking	genre scene	landscape	203	617.892	587	501	0.8535
+667.jpg	1889.9174	158	95	4_Saint-Remy-de-Provence_asylum	1889	12	Olive Picking	genre scene	landscape	125	1248.728	580	460	0.7931
+668.jpg	1889.9174	130	77	4_Saint-Remy-de-Provence_asylum	1889	12	Road at Saint-Remy with Female Figure A	landscape	landscape	497	300.038	643	516	0.8025
+669.jpg	1889.9174	154	161	4_Saint-Remy-de-Provence_asylum	1889	12	Valley with Ploughman Seen from Above	rural_town	town	79	2556.139	600	462	0.77
+670.jpg	1889.9174	131	36	4_Saint-Remy-de-Provence_asylum	1889	12	Wooden Sheds	rural_town	town	257	514.65	595	446	0.7496
+671.jpg	1890	168	83	4_Saint-Remy-de-Provence_asylum	1890	1	First Steps (after Millet)	genre scene	figural 	418	368.589	678	541	0.7979
+672.jpg	1890	114	74	4_Saint-Remy-de-Provence_asylum	1890	1	Morning: Peasant Couple Going to Work (after Millet)	landscape	town	706	180.527	416	664	1.5962
+673.jpg	1890	161	134	4_Saint-Remy-de-Provence_asylum	1890	1	Noon: Rest from Work (after Millet)	genre scene	figural 	114	2368.518	680	549	0.8074
+674.jpg	1890	152	76	4_Saint-Remy-de-Provence_asylum	1890	1	Plough and the Harrow (after Millet) The	landscape	landscape	112	1264.196	602	474	0.7874
+675.jpg	1890.0834	168	116	4_Saint-Remy-de-Provence_asylum	1890	2	Blossoming Almond Tree	still-life	other 	526	829.23	950	753	0.7926
+676.jpg	1890.0834	165	124	4_Saint-Remy-de-Provence_asylum	1890	2	Cypresses and Two Women	rural_town	town	192	1074.646	676	531	0.7855
+677.jpg	1890.0834	162	68	4_Saint-Remy-de-Provence_asylum	1890	2	L'Arlesienne (Madame Ginoux)	portrait	portrait	23	6139.565	437	531	1.2151
+678.jpg	1890.0834	209	54	4_Saint-Remy-de-Provence_asylum	1890	2	L'Arlesienne (Madame Ginoux)	portrait	portrait	22	5523.682	450	602	1.3378
+679.jpg	1890.0834	199	71	4_Saint-Remy-de-Provence_asylum	1890	2	L'Arlesienne (Madame Ginoux)	portrait	portrait	12	8113.25	473	571	1.2072
+680.jpg	1890.0834	232	17	4_Saint-Remy-de-Provence_asylum	1890	2	L'Arlesienne (Madame Ginoux)	portrait	portrait	84	802.798	477	587	1.2306
+681.jpg	1890.0834	151	23	4_Saint-Remy-de-Provence_asylum	1890	2	Prisoners Exercising (after Dore)	genre scene	figural 	263	846.449	516	661	1.281
+682.jpg	1890.0834	212	79	4_Saint-Remy-de-Provence_asylum	1890	2	Thatched Cottages in the Sunshine: Reminiscence of the North	rural_town	town	143	945.797	460	611	1.3283
+683.jpg	1890.0834	164	92	4_Saint-Remy-de-Provence_asylum	1890	2	Woodcutter The (after Millet)	genre scene	figural 	182	874.94	370	653	1.7649
+684.jpg	1890.1668	181	72	4_Saint-Remy-de-Provence_asylum	1890	3	Cottages and Cypresses: Reminiscence of the North	rural_town	town	453	239.857	599	476	0.7947
+685.jpg	1890.1668	174	126	4_Saint-Remy-de-Provence_asylum	1890	3	Cottages: Reminiscence of the North	rural_town	town	238	581.038	450	483	1.0733
+686.jpg	1890.1668	139	33	4_Saint-Remy-de-Provence_asylum	1890	3	Peasants Lifting Potatoes	genre scene	figural 	49	3342.204	640	513	0.8016
+687.jpg	1890.1668	189	49	4_Saint-Remy-de-Provence_asylum	1890	3	Two Peasant Women Digging in Field with Snow	genre scene	figural 	315	333.238	620	477	0.7694
+688.jpg	1890.2502	165	96	4_Saint-Remy-de-Provence_asylum	1890	4	Old Man in Sorrow (On the Threshold of Eternity)	other	figural 	127	1497.126	496	617	1.244
+689.jpg	1890.2502	179	100	4_Saint-Remy-de-Provence_asylum	1890	4	Pine Trees and Dandelions in the Garden of Saint-Paul Hospital	landscape	other 	537	278.635	630	503	0.7984
+690.jpg	1890.2502	117	105	4_Saint-Remy-de-Provence_asylum	1890	4	Poppies and Butterflies	still-life	still-life	259	510.869	420	583	1.3881
+691.jpg	1890.2502	102	76	4_Saint-Remy-de-Provence_asylum	1890	4	Roses and Beetle	still-life	other 	314	319.076	476	661	1.3887
+692.jpg	1890.2502	122	102	4_Saint-Remy-de-Provence_asylum	1890	4	Wild Roses	still-life	other 	330	589.864	702	492	0.7009
+693.jpg	1890.3336	134	94	4_Saint-Remy-de-Provence_asylum	1890	5	Chestnut Tree in Blossom	cityscape	town	431	353.077	500	636	1.272
+694.jpg	1890.3336	74	89	4_Saint-Remy-de-Provence_asylum	1890	5	Chestnut Trees in Blossom	cityscape	town	512	197.828	500	609	1.218
+695.jpg	1890.3336	106	133	5_Auvers-sur-Oise	1890	5	Doctor Gachet's Garden in Auvers	landscape	landscape	401	304.347	400	598	1.495
+696.jpg	1890.3336	165	66	5_Auvers-sur-Oise	1890	5	Farmhouse with Two Figures	still-life	other 	371	466.089	600	476	0.7933
+697.jpg	1890.3336	160	92	5_Auvers-sur-Oise	1890	5	Good Samaritan (after Delacroix) The	other	figural 	314	555.834	531	659	1.2411
+698.jpg	1890.3336	164	83	5_Auvers-sur-Oise	1890	5	Green Wheat Fields	landscape	landscape	53	1520.491	458	354	0.7729
+699.jpg	1890.3336	209	106	5_Auvers-sur-Oise	1890	5	House of Pere Eloi The	cityscape	town	102	2069.088	629	543	0.8633
+700.jpg	1890.3336	134	83	5_Auvers-sur-Oise	1890	5	House of Pere Pilon The	cityscape	town	437	380.842	673	483	0.7177
+701.jpg	1890.3336	147	112	5_Auvers-sur-Oise	1890	5	Houses in Auvers	cityscape	town	60	3338.45	520	633	1.2173
+702.jpg	1890.3336	185	94	5_Auvers-sur-Oise	1890	5	Landscape with Couple Walking and Crescent Moon	landscape	landscape	132	1004.583	551	629	1.1416
+703.jpg	1890.3336	143	116	5_Auvers-sur-Oise	1890	5	Meadow in the Garden of Saint-Paul Hospital	landscape	landscape	219	574.119	492	373	0.7581
+704.jpg	1890.3336	193	130	5_Auvers-sur-Oise	1890	5	Raising of Lazarus (after Rembrandt) The	other	figural 	253	533.202	645	504	0.7814
+705.jpg	1890.3336	155	77	5_Auvers-sur-Oise	1890	5	Road with Cypress and Star	landscape	landscape	384	328.13	500	635	1.27
+706.jpg	1890.3336	184	98	5_Auvers-sur-Oise	1890	5	Still Life: Pink Roses in a Vase	still-life	still-life	134	586.582	479	700	1.4614
+707.jpg	1890.3336	211	55	5_Auvers-sur-Oise	1890	5	Still Life: Vase with Irises	still-life	still-life	58	2602.155	641	509	0.7941
+708.jpg	1890.3336	198	153	5_Auvers-sur-Oise	1890	5	Still Life: Vase with Irises Against a Yellow Background	still-life	still-life	157	1222.65	619	775	1.252
+709.jpg	1890.3336	203	78	5_Auvers-sur-Oise	1890	5	Still Life: Vase with Roses	still-life	still-life	134	1127.336	671	518	0.772
+710.jpg	1890.3336	201	85	5_Auvers-sur-Oise	1890	5	Thatched Cottages	rural_town	town	390	315.103	601	502	0.8353
+711.jpg	1890.3336	120	119	5_Auvers-sur-Oise	1890	5	View of Auvers	rural_town	town	269	638.729	600	571	0.9517
+712.jpg	1890.3336	193	122	5_Auvers-sur-Oise	1890	5	View of Vessenots Near Auvers	rural_town	town	236	595.292	562	465	0.8274
+713.jpg	1890.3336	173	77	5_Auvers-sur-Oise	1890	5	Village Street and Steps in Auvers with Figures	rural_town	town	166	1109.139	666	474	0.7117
+714.jpg	1890.3336	147	116	5_Auvers-sur-Oise	1890	5	Village Street and Steps in Auvers with Two Figures	rural_town	town	143	1217.203	548	436	0.7956
+715.jpg	1890.3336	144	89	5_Auvers-sur-Oise	1890	5	Village Street in Auvers	rural_town	town	270	458.956	620	498	0.8032
+716.jpg	1890.417	136	76	5_Auvers-sur-Oise	1890	6	Blossoming Acacia Branches	still-life	other 	1	327305	486	674	1.3868
+717.jpg	1890.417	176	98	5_Auvers-sur-Oise	1890	6	Child with Orange	portrait	portrait	338	396.314	538	555	1.0316
+718.jpg	1890.417	133	90	5_Auvers-sur-Oise	1890	6	Church at Auvers The	rural_town	town	408	490.105	568	719	1.2658
+719.jpg	1890.417	149	162	5_Auvers-sur-Oise	1890	6	Cows (after Jordaens)	other	other 	143	448.021	457	363	0.7943
+720.jpg	1890.417	159	101	5_Auvers-sur-Oise	1890	6	Daubigny's Garden	landscape	town	451	380.43	570	552	0.9684
+721.jpg	1890.417	141	111	5_Auvers-sur-Oise	1890	6	Ears of Wheat	landscape	other 	232	325.397	304	418	1.375
+722.jpg	1890.417	169	90	5_Auvers-sur-Oise	1890	6	Field with Poppies	landscape	landscape	350	510.36	600	485	0.8083
+723.jpg	1890.417	169	116	5_Auvers-sur-Oise	1890	6	Garden in Auvers	landscape	landscape	231	404.056	579	455	0.7858
+724.jpg	1890.417	158	80	5_Auvers-sur-Oise	1890	6	Houses in Auvers	rural_town	town	452	348.192	600	493	0.8217
+725.jpg	1890.417	130	104	5_Auvers-sur-Oise	1890	6	Landscape with Carriage and Train in the Background	rural_town	town	379	387.773	570	453	0.7947
+726.jpg	1890.417	106	164	5_Auvers-sur-Oise	1890	6	Landscape with the Chateau of Auvers at Sunset	rural_town	town	355	560.82	944	457	0.4841
+727.jpg	1890.417	200	114	5_Auvers-sur-Oise	1890	6	Little Arlesienne The	portrait	portrait	197	317.635	500	532	1.064
+728.jpg	1890.417	105	109	5_Auvers-sur-Oise	1890	6	Little Stream The	landscape	landscape	293	339.123	570	422	0.7404
+729.jpg	1890.417	174	74	5_Auvers-sur-Oise	1890	6	Marguerite Gachet at the Piano	genre scene	figural 	480	240.606	372	773	2.078
+730.jpg	1890.417	155	85	5_Auvers-sur-Oise	1890	6	Marguerite Gachet in the Garden	genre scene	figural 	482	377.18	688	497	0.7224
+731.jpg	1890.417	90	67	5_Auvers-sur-Oise	1890	6	Portrait of Adeline Ravoux	portrait	portrait	384	241.245	480	575	1.1979
+732.jpg	1890.417	96	60	5_Auvers-sur-Oise	1890	6	Portrait of Adeline Ravoux	portrait	portrait	77	1689.532	466	627	1.3455
+733.jpg	1890.417	57	95	5_Auvers-sur-Oise	1890	6	Portrait of Adeline Ravoux	portrait	portrait	96	975.896	470	478	1.017
+734.jpg	1890.417	86	86	5_Auvers-sur-Oise	1890	6	Portrait of Doctor Gachet	portrait	portrait	255	658.4	580	690	1.1897
+735.jpg	1890.417	106	107	5_Auvers-sur-Oise	1890	6	Portrait of Doctor Gachet	portrait	portrait	109	1155.477	448	528	1.1786
+736.jpg	1890.417	171	94	5_Auvers-sur-Oise	1890	6	Still Life: Glass with Carnations	still-life	still-life	58	1437.448	380	482	1.2684
+737.jpg	1890.417	167	40	5_Auvers-sur-Oise	1890	6	Still Life: Glass with Wild Flowers	still-life	still-life	85	819.318	355	440	1.2394
+738.jpg	1890.417	173	111	5_Auvers-sur-Oise	1890	6	Still Life: Japanese Vase with Roses and Anemones	still-life	still-life	127	1137.921	520	525	1.0096
+739.jpg	1890.417	144	106	5_Auvers-sur-Oise	1890	6	Still Life: Pink Roses	still-life	still-life	545	291.615	677	540	0.7976
+740.jpg	1890.417	187	121	5_Auvers-sur-Oise	1890	6	Still Life: Red Poppies and Daisies	still-life	still-life	218	665.257	450	591	1.3133
+741.jpg	1890.417	103	43	5_Auvers-sur-Oise	1890	6	Still Life: Vase with Flower and Thistles	still-life	still-life	244	602.242	488	590	1.209
+742.jpg	1890.417	112	106	5_Auvers-sur-Oise	1890	6	Still Life: Vase with Rose-Mallows	still-life	still-life	510	255.098	487	709	1.4559
+743.jpg	1890.417	121	65	5_Auvers-sur-Oise	1890	6	Thatched Cottages at Cordeville	rural_town	town	578	279.509	702	556	0.792
+744.jpg	1890.417	182	93	5_Auvers-sur-Oise	1890	6	Thatched Cottages in Jorgus	rural_town	town	284	646.109	670	555	0.8284
+745.jpg	1890.417	166	66	5_Auvers-sur-Oise	1890	6	Two Children	portrait	portrait	113	1032.796	450	462	1.0267
+746.jpg	1890.417	152	80	5_Auvers-sur-Oise	1890	6	Two Children	portrait	portrait	138	1483.616	504	574	1.1389
+747.jpg	1890.417	137	105	5_Auvers-sur-Oise	1890	6	Undergrowth with Two Figures	landscape	landscape	330	521.094	720	357	0.4958
+748.jpg	1890.417	182	100	5_Auvers-sur-Oise	1890	6	Vineyards with a View of Auvers	rural_town	town	147	1479.626	644	525	0.8152
+749.jpg	1890.417	135	108	5_Auvers-sur-Oise	1890	6	Wheat Field at Auvers with White House	rural_town	landscape	287	706.397	654	502	0.7676
+750.jpg	1890.417	151	78	5_Auvers-sur-Oise	1890	6	Wheat Fields near Auvers	landscape	landscape	253	660.383	862	420	0.4872
+751.jpg	1890.417	150	128	5_Auvers-sur-Oise	1890	6	White House at Night The	cityscape	town	191	505.372	600	490	0.8167
+752.jpg	1890.417	154	91	5_Auvers-sur-Oise	1890	6	Wild Flowers and Thistles in a Vase	still-life	still-life	216	604.019	408	602	1.4755
+753.jpg	1890.417	153	78	5_Auvers-sur-Oise	1890	6	Young Girl Standing Against a Background of Wheat	portrait	portrait	357	303.115	490	698	1.4245
+754.jpg	1890.417	164	183	5_Auvers-sur-Oise	1890	6	Young Man with Cornflower	portrait	portrait	134	1416.284	420	559	1.331
+755.jpg	1890.417	134	110	5_Auvers-sur-Oise	1890	6	Young Peasant Woman with Straw Hat Sitting in the Wheat	portrait	portrait	212	780.429	460	575	1.25
+756.jpg	1890.5004	179	82	5_Auvers-sur-Oise	1890	7	Auvers Town Hall on 14 July 1890	cityscape	town	264	548.784	580	468	0.8069
+757.jpg	1890.5004	138	113	5_Auvers-sur-Oise	1890	7	Bank of the Oise at Auvers	genre scene	town	517	331.621	640	523	0.8172
+758.jpg	1890.5004	153	93	5_Auvers-sur-Oise	1890	7	Daubigny's Garden	landscape	town	399	383.19	777	401	0.5161
+759.jpg	1890.5004	168	108	5_Auvers-sur-Oise	1890	7	Daubigny's Garden	landscape	town	381	411.601	782	425	0.5435
+760.jpg	1890.5004	181	113	5_Auvers-sur-Oise	1890	7	Field with Wheat Stacks	landscape	landscape	243	659.206	779	381	0.4891
+761.jpg	1890.5004	185	128	5_Auvers-sur-Oise	1890	7	Fields The	landscape	landscape	418	290.617	594	444	0.7475
+762.jpg	1890.5004	103	108	5_Auvers-sur-Oise	1890	7	Grove The	landscape	landscape	478	291.109	560	449	0.8018
+763.jpg	1890.5004	158	81	5_Auvers-sur-Oise	1890	7	Haystacks under a Rainy Sky	landscape	landscape	105	829.029	443	528	1.1919
+764.jpg	1890.5004	151	108	5_Auvers-sur-Oise	1890	7	Landscape at Auvers in the Rain	landscape	landscape	303	506.825	700	338	0.4829
+765.jpg	1890.5004	166	63	5_Auvers-sur-Oise	1890	7	Plain Near Auvers	landscape	landscape	112	1934.848	648	462	0.713
+766.jpg	1890.5004	240	132	5_Auvers-sur-Oise	1890	7	Sheaves of Wheat	landscape	landscape	567	268.84	817	424	0.519
+767.jpg	1890.5004	174	97	5_Auvers-sur-Oise	1890	7	Thatched Cottages by a Hill	rural_town	town	285	539.856	831	399	0.4801
+768.jpg	1890.5004	137	120	5_Auvers-sur-Oise	1890	7	Thatched Sandstone Cottages in Chaponval	rural_town	town	284	458.261	620	496	0.8
+769.jpg	1890.5004	178	134	5_Auvers-sur-Oise	1890	7	Tree Roots and Trunks	landscape	other 	156	1099.038	770	386	0.5013
+770.jpg	1890.5004	169	106	5_Auvers-sur-Oise	1890	7	Two Women Crossing the Fields	landscape	landscape	135	761.644	696	349	0.5014
+771.jpg	1890.5004	164	220	5_Auvers-sur-Oise	1890	7	Wheat Field Under Clouded Sky	landscape	landscape	151	791.503	780	391	0.5013
+772.jpg	1890.5004	184	113	5_Auvers-sur-Oise	1890	7	Wheat Field with Cornflowers	landscape	landscape	174	865.552	600	442	0.7367
+773.jpg	1890.5004	128	138	5_Auvers-sur-Oise	1890	7	Wheat Field with Crows	landscape	landscape	422	498.934	967	463	0.4788
+774.jpg	1890.5004	190	98	5_Auvers-sur-Oise	1890	7	Wheat Fields at Auvers Under Clouded Sky	landscape	landscape	131	1269.282	692	552	0.7977
+775.jpg	1890.5004	175	55	5_Auvers-sur-Oise	1890	7	Wheat Fields with Auvers in the Background	landscape	landscape	334	351.898	671	563	0.839
+776.jpg	1890.5004	160	137	5_Auvers-sur-Oise	1890	7	Wheat Stacks with Reaper	landscape	landscape	327	772.318	664	523	0.7877
